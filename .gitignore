@@ -15,6 +15,10 @@
 !/assets/hero-poster.jpg
 !/assets/hero.mp4
 !/assets/company-logo.png
+!/assets/fonts/
+/assets/fonts/*
+!/assets/fonts/SUIT-Variable.woff2
+!/assets/fonts/LICENSE.txt
 !/assets/hero/
 /assets/hero/*
 !/assets/hero/*.webp
