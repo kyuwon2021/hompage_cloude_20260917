@@ -1,0 +1,30 @@
+{
+  "title": "도레이 임직원 SKT 행사",
+  "place": "기업 행사 · 임직원 모바일 상담",
+  "year": "2017–2018",
+  "tags": [
+    "SK텔레콤",
+    "임직원 특판 행사"
+  ],
+  "summary": "기업 행사와 연계한 SKT 모바일 상담 및 제품 체험.",
+  "cover": "assets/references/toray-1.webp",
+  "sections": [
+    {
+      "heading": "임직원을 찾아가는 상담",
+      "body": "도레이 SKT 행사 폴더에 보관된 현장 기록입니다. 기업 행사 공간에 상담 부스를 마련하고 임직원 대상 모바일 상담을 진행했습니다.",
+      "img": "assets/references/toray-2.webp"
+    },
+    {
+      "heading": "행사 환경에 맞춘 부스 운영",
+      "body": "야외 행사와 실내 공간에 맞춘 부스 및 제품 전시를 구성했습니다. 사진 속 상품·행사 문구는 과거 기록이며 현재 판매 조건이 아닙니다.",
+      "img": "assets/references/toray-3.webp"
+    }
+  ],
+  "gallery": [
+    "assets/references/toray-1.webp",
+    "assets/references/toray-2.webp",
+    "assets/references/toray-3.webp"
+  ],
+  "pdf": "",
+  "pdfLabel": "시공 완료보고서"
+}

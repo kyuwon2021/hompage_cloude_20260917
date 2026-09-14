@@ -1,0 +1,30 @@
+{
+  "title": "포스코센터 LED 디스플레이",
+  "place": "서울 강남 · 회의실",
+  "year": "2019",
+  "tags": [
+    "LED 전광판",
+    "기업 회의실"
+  ],
+  "summary": "기업 회의 공간을 위한 대형 LED 디스플레이 납품·설치.",
+  "cover": "assets/references/posco-1.webp",
+  "sections": [
+    {
+      "heading": "공간에 맞춘 대형 화면",
+      "body": "포스코센터 회의실 및 집무 공간의 LED 디스플레이 납품 자료입니다. 대형 화면을 벽면에 일체감 있게 구성해 시청 환경을 완성했습니다.",
+      "img": "assets/references/posco-2.webp"
+    },
+    {
+      "heading": "구조물 설치부터 화면 점검까지",
+      "body": "전용 구조물과 디스플레이 설치 과정을 거쳐 화면 출력을 확인했습니다. 설치 과정과 완성된 화면을 함께 담았습니다.",
+      "img": "assets/references/posco-3.webp"
+    }
+  ],
+  "gallery": [
+    "assets/references/posco-1.webp",
+    "assets/references/posco-2.webp",
+    "assets/references/posco-3.webp"
+  ],
+  "pdf": "",
+  "pdfLabel": "시공 완료보고서"
+}
