@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg data-dc-tpl="6" viewBox="0 0 1500 780" width="100%" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="YTS logo" data-om-id="ae0d4497:11" style="max-width: 820px; display: block; overflow: visible;">
+      <defs data-dc-tpl="7" data-om-id="ae0d4497:12">
+        
+        <linearGradient data-dc-tpl="8" id="ring" x1="180" y1="720" x2="1280" y2="230" gradientUnits="userSpaceOnUse" data-om-id="ae0d4497:13">
+          <stop data-dc-tpl="9" offset="0%" stop-color="#0b1547" data-om-id="ae0d4497:14"></stop>
+          <stop data-dc-tpl="10" offset="18%" stop-color="#1a2168" data-om-id="ae0d4497:15"></stop>
+          <stop data-dc-tpl="11" offset="38%" stop-color="#3a2570" data-om-id="ae0d4497:16"></stop>
+          <stop data-dc-tpl="12" offset="55%" stop-color="#6c2f86" data-om-id="ae0d4497:17"></stop>
+          <stop data-dc-tpl="13" offset="70%" stop-color="#40559c" data-om-id="ae0d4497:18"></stop>
+          <stop data-dc-tpl="14" offset="85%" stop-color="#2b9fb2" data-om-id="ae0d4497:19"></stop>
+          <stop data-dc-tpl="15" offset="100%" stop-color="#7fe3da" data-om-id="ae0d4497:20"></stop>
+        </linearGradient>
+        <linearGradient data-dc-tpl="16" id="ringInner" x1="180" y1="720" x2="1280" y2="230" gradientUnits="userSpaceOnUse" data-om-id="ae0d4497:21">
+          <stop data-dc-tpl="17" offset="0%" stop-color="#4a5aa8" data-om-id="ae0d4497:22"></stop>
+          <stop data-dc-tpl="18" offset="50%" stop-color="#8f5fb0" data-om-id="ae0d4497:23"></stop>
+          <stop data-dc-tpl="19" offset="100%" stop-color="#bff4ee" data-om-id="ae0d4497:24"></stop>
+        </linearGradient>
+
+        
+        <linearGradient data-dc-tpl="20" id="redG" x1="0" y1="0" x2="0" y2="1" data-om-id="ae0d4497:25">
+          <stop data-dc-tpl="21" offset="0%" stop-color="#c9313a" data-om-id="ae0d4497:26"></stop>
+          <stop data-dc-tpl="22" offset="48%" stop-color="#a01019" data-om-id="ae0d4497:27"></stop>
+          <stop data-dc-tpl="23" offset="100%" stop-color="#6e0a10" data-om-id="ae0d4497:28"></stop>
+        </linearGradient>
+        <linearGradient data-dc-tpl="24" id="greenG" x1="0" y1="0" x2="0" y2="1" data-om-id="ae0d4497:29">
+          <stop data-dc-tpl="25" offset="0%" stop-color="#2a8f3c" data-om-id="ae0d4497:30"></stop>
+          <stop data-dc-tpl="26" offset="48%" stop-color="#1a7029" data-om-id="ae0d4497:31"></stop>
+          <stop data-dc-tpl="27" offset="100%" stop-color="#0c4515" data-om-id="ae0d4497:32"></stop>
+        </linearGradient>
+        <linearGradient data-dc-tpl="28" id="blueG" x1="0" y1="0" x2="0" y2="1" data-om-id="ae0d4497:33">
+          <stop data-dc-tpl="29" offset="0%" stop-color="#3f7ee0" data-om-id="ae0d4497:34"></stop>
+          <stop data-dc-tpl="30" offset="48%" stop-color="#245fbf" data-om-id="ae0d4497:35"></stop>
+          <stop data-dc-tpl="31" offset="100%" stop-color="#123f86" data-om-id="ae0d4497:36"></stop>
+        </linearGradient>
+
+        
+        <linearGradient data-dc-tpl="32" id="sheen" x1="0" y1="0" x2="0" y2="1" data-om-id="ae0d4497:37">
+          <stop data-dc-tpl="33" offset="0%" stop-color="#ffffff" stop-opacity="0.55" data-om-id="ae0d4497:38"></stop>
+          <stop data-dc-tpl="34" offset="100%" stop-color="#ffffff" stop-opacity="0.04" data-om-id="ae0d4497:39"></stop>
+        </linearGradient>
+
+        <filter data-dc-tpl="35" id="tileShadow" x="-20%" y="-20%" width="140%" height="150%" data-om-id="ae0d4497:40">
+          <feDropShadow data-dc-tpl="36" dx="0" dy="10" stdDeviation="12" flood-color="#0a1230" flood-opacity="0.28" data-om-id="ae0d4497:41"></feDropShadow>
+        </filter>
+        <filter data-dc-tpl="37" id="ringGlow" x="-20%" y="-20%" width="140%" height="140%" data-om-id="ae0d4497:42">
+          <feGaussianBlur data-dc-tpl="38" stdDeviation="7" data-om-id="ae0d4497:43"></feGaussianBlur>
+        </filter>
+        <filter data-dc-tpl="39" id="letterShadow" x="-40%" y="-40%" width="180%" height="180%" data-om-id="ae0d4497:44">
+          <feDropShadow data-dc-tpl="40" dx="0" dy="3" stdDeviation="3" flood-color="#000000" flood-opacity="0.35" data-om-id="ae0d4497:45"></feDropShadow>
+        </filter>
+      </defs>
+
+      
+      <g data-dc-tpl="41" transform="rotate(-15 740 430)" data-om-id="ae0d4497:46">
+        <path data-dc-tpl="42" d="M223,289 A585,300 0 1 0 1247,280 L1212,299 A545,262 0 1 1 259,307 Z" fill="url(#ring)" filter="url(#ringGlow)" opacity="0.55" data-om-id="ae0d4497:47"></path>
+        <path data-dc-tpl="43" d="M223,289 A585,300 0 1 0 1247,280 L1212,299 A545,262 0 1 1 259,307 Z" fill="url(#ring)" data-om-id="ae0d4497:48"></path>
+        
+        <path data-dc-tpl="44" d="M1255,268 A605,318 0 0 0 900,712" fill="none" stroke="url(#ringInner)" stroke-width="7" stroke-linecap="round" opacity="0.7" data-om-id="ae0d4497:49"></path>
+      </g>
+
+      
+      <g data-dc-tpl="45" fill="#eafcff" data-om-id="ae0d4497:50">
+        <g data-dc-tpl="46" transform="translate(255,610)" data-om-id="ae0d4497:51"><path data-dc-tpl="47" d="M0,-26 Q4,-4 26,0 Q4,4 0,26 Q-4,4 -26,0 Q-4,-4 0,-26 Z" data-om-id="ae0d4497:52"></path></g>
+        <g data-dc-tpl="48" transform="translate(1085,470) scale(0.8)" data-om-id="ae0d4497:53"><path data-dc-tpl="49" d="M0,-26 Q4,-4 26,0 Q4,4 0,26 Q-4,4 -26,0 Q-4,-4 0,-26 Z" data-om-id="ae0d4497:54"></path></g>
+        <g data-dc-tpl="50" transform="translate(1330,300) scale(0.62)" data-om-id="ae0d4497:55"><path data-dc-tpl="51" d="M0,-26 Q4,-4 26,0 Q4,4 0,26 Q-4,4 -26,0 Q-4,-4 0,-26 Z" data-om-id="ae0d4497:56"></path></g>
+        <g data-dc-tpl="52" transform="translate(470,675) scale(0.5)" opacity="0.85" data-om-id="ae0d4497:57"><path data-dc-tpl="53" d="M0,-26 Q4,-4 26,0 Q4,4 0,26 Q-4,4 -26,0 Q-4,-4 0,-26 Z" data-om-id="ae0d4497:58"></path></g>
+        <g data-dc-tpl="54" transform="translate(820,660) scale(0.4)" opacity="0.8" data-om-id="ae0d4497:59"><path data-dc-tpl="55" d="M0,-26 Q4,-4 26,0 Q4,4 0,26 Q-4,4 -26,0 Q-4,-4 0,-26 Z" data-om-id="ae0d4497:60"></path></g>
+        <circle data-dc-tpl="56" cx="640" cy="640" r="4" opacity="0.8" data-om-id="ae0d4497:61"></circle>
+        <circle data-dc-tpl="57" cx="1220" cy="380" r="3.5" opacity="0.8" data-om-id="ae0d4497:62"></circle>
+        <circle data-dc-tpl="58" cx="350" cy="560" r="3" opacity="0.7" data-om-id="ae0d4497:63"></circle>
+      </g>
+
+      
+      
+      <g data-dc-tpl="59" filter="url(#tileShadow)" data-om-id="ae0d4497:64">
+        <rect data-dc-tpl="60" x="258" y="232" width="292" height="300" rx="42" fill="url(#redG)" data-om-id="ae0d4497:65"></rect>
+        <rect data-dc-tpl="61" x="264" y="238" width="280" height="288" rx="38" fill="none" stroke="#ffffff" stroke-opacity="0.18" stroke-width="2" data-om-id="ae0d4497:66"></rect>
+        <path data-dc-tpl="62" d="M282,254 h244 a24,24 0 0 1 24,24 v128 q-146,64 -292,0 v-128 a24,24 0 0 1 24,-24 Z" fill="url(#sheen)" data-om-id="ae0d4497:67"></path>
+      </g>
+      <text data-dc-tpl="63" x="404" y="388" font-family="'Archivo',sans-serif" font-weight="900" font-size="228" fill="#ffffff" text-anchor="middle" dominant-baseline="central" filter="url(#letterShadow)" data-om-id="ae0d4497:68">Y</text>
+
+      
+      <g data-dc-tpl="64" filter="url(#tileShadow)" data-om-id="ae0d4497:69">
+        <rect data-dc-tpl="65" x="578" y="158" width="292" height="300" rx="42" fill="url(#greenG)" data-om-id="ae0d4497:70"></rect>
+        <rect data-dc-tpl="66" x="584" y="164" width="280" height="288" rx="38" fill="none" stroke="#ffffff" stroke-opacity="0.18" stroke-width="2" data-om-id="ae0d4497:71"></rect>
+        <path data-dc-tpl="67" d="M602,180 h244 a24,24 0 0 1 24,24 v128 q-146,64 -292,0 v-128 a24,24 0 0 1 24,-24 Z" fill="url(#sheen)" data-om-id="ae0d4497:72"></path>
+      </g>
+      <text data-dc-tpl="68" x="724" y="314" font-family="'Archivo',sans-serif" font-weight="900" font-size="228" fill="#ffffff" text-anchor="middle" dominant-baseline="central" filter="url(#letterShadow)" data-om-id="ae0d4497:73">T</text>
+
+      
+      <g data-dc-tpl="69" filter="url(#tileShadow)" data-om-id="ae0d4497:74">
+        <rect data-dc-tpl="70" x="924" y="78" width="300" height="308" rx="44" fill="url(#blueG)" data-om-id="ae0d4497:75"></rect>
+        <rect data-dc-tpl="71" x="930" y="84" width="288" height="296" rx="40" fill="none" stroke="#ffffff" stroke-opacity="0.20" stroke-width="2" data-om-id="ae0d4497:76"></rect>
+        <path data-dc-tpl="72" d="M950,100 h248 a24,24 0 0 1 24,24 v132 q-148,66 -296,0 v-132 a24,24 0 0 1 24,-24 Z" fill="url(#sheen)" data-om-id="ae0d4497:77"></path>
+      </g>
+      <text data-dc-tpl="73" x="1074" y="236" font-family="'Archivo',sans-serif" font-weight="900" font-size="234" fill="#ffffff" text-anchor="middle" dominant-baseline="central" filter="url(#letterShadow)" data-om-id="ae0d4497:78">S</text>
+    </svg>

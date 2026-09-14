@@ -1,0 +1,19 @@
+# Publish only the website runtime files.
+/*
+!/.gitignore
+!/.nojekyll
+!/index.html
+!/case.html
+!/app.js
+!/styles.css
+!/logo.svg
+!/content.json
+!/content-fallback.js
+!/assets/
+/assets/*
+!/assets/space-hero.webp
+!/assets/hero-poster.jpg
+!/assets/hero.mp4
+!/case-data/
+/case-data/*
+!/case-data/*.json
