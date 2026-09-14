@@ -1,0 +1,21 @@
+{
+  "title": "경운대학교 DID",
+  "place": "경운대학교DID",
+  "year": "2016",
+  "tags": [
+    "디지털 사이니지",
+    "디스플레이"
+  ],
+  "summary": "교내 안내를 위한 세로형 디지털 사이니지.",
+  "cover": "assets/references/kyungwoon-did-157.webp",
+  "sections": [
+    {
+      "heading": "현장 소개",
+      "body": "교육시설의 안내 공간에 설치된 세로형 DID와 설치 준비 과정을 담았습니다."
+    }
+  ],
+  "gallery": [
+    "assets/references/kyungwoon-did-79.webp"
+  ],
+  "pdf": ""
+}

@@ -1,0 +1,22 @@
+{
+  "title": "구미시보건소 DID",
+  "place": "구미시보건소DID",
+  "year": "2016",
+  "tags": [
+    "디지털 사이니지",
+    "디스플레이"
+  ],
+  "summary": "보건소 방문객을 위한 디지털 안내 화면.",
+  "cover": "assets/references/gumi-health-did-30.webp",
+  "sections": [
+    {
+      "heading": "현장 소개",
+      "body": "벽면 안내 공간의 설치 전 모습과 디스플레이 설치 후 화면을 담았습니다."
+    }
+  ],
+  "gallery": [
+    "assets/references/gumi-health-did-15.webp",
+    "assets/references/gumi-health-did-0.webp"
+  ],
+  "pdf": ""
+}

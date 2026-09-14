@@ -1,0 +1,22 @@
+{
+  "title": "짱오락실 광주첨단점",
+  "place": "짱오락실 · 광주첨단점",
+  "year": "2024",
+  "tags": [
+    "시스템에어컨",
+    "현장 설치"
+  ],
+  "summary": "매장 천장 구조에 맞춘 시스템에어컨.",
+  "cover": "assets/references/jjang-gwangju-7.webp",
+  "sections": [
+    {
+      "heading": "현장 소개",
+      "body": "천장형 실내기, 실내 공간, 외부 매장 전경을 함께 소개합니다."
+    }
+  ],
+  "gallery": [
+    "assets/references/jjang-gwangju-0.webp",
+    "assets/references/jjang-gwangju-4.webp"
+  ],
+  "pdf": ""
+}

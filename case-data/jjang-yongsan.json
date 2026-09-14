@@ -1,0 +1,22 @@
+{
+  "title": "짱오락실 용산아이파크몰점",
+  "place": "짱오락실 · 용산아이파크몰점",
+  "year": "2026",
+  "tags": [
+    "시스템에어컨",
+    "현장 설치"
+  ],
+  "summary": "상업시설 내 시스템에어컨 시공.",
+  "cover": "assets/references/jjang-yongsan-2.webp",
+  "sections": [
+    {
+      "heading": "현장 소개",
+      "body": "천장형 실내기 설치와 현장 장비 반입 작업 기록을 담았습니다."
+    }
+  ],
+  "gallery": [
+    "assets/references/jjang-yongsan-0.webp",
+    "assets/references/jjang-yongsan-4.webp"
+  ],
+  "pdf": ""
+}

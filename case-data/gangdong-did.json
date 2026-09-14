@@ -1,0 +1,22 @@
+{
+  "title": "구미강동병원 DID",
+  "place": "구미강동병원DID",
+  "year": "2017",
+  "tags": [
+    "디지털 사이니지",
+    "디스플레이"
+  ],
+  "summary": "병원 공용 공간의 안내 디스플레이.",
+  "cover": "assets/references/gangdong-did-0.webp",
+  "sections": [
+    {
+      "heading": "현장 소개",
+      "body": "공용 안내 화면과 설치 브래킷, 연결부의 작업 기록입니다."
+    }
+  ],
+  "gallery": [
+    "assets/references/gangdong-did-8.webp",
+    "assets/references/gangdong-did-15.webp"
+  ],
+  "pdf": ""
+}

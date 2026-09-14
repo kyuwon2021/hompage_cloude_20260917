@@ -1,0 +1,22 @@
+{
+  "title": "짱오락실 강남대로점",
+  "place": "짱오락실 · 강남대로점",
+  "year": "2026",
+  "tags": [
+    "시스템에어컨",
+    "현장 설치"
+  ],
+  "summary": "게임 공간의 천장형 냉난방 설비.",
+  "cover": "assets/references/jjang-gangnam-2.webp",
+  "sections": [
+    {
+      "heading": "현장 소개",
+      "body": "게임기와 매장 조명 사이에 배치된 천장형 실내기와 매장 전경입니다."
+    }
+  ],
+  "gallery": [
+    "assets/references/jjang-gangnam-0.webp",
+    "assets/references/jjang-gangnam-4.webp"
+  ],
+  "pdf": ""
+}

@@ -1,0 +1,22 @@
+{
+  "title": "짱오락실 대구스파크점",
+  "place": "짱오락실 · 대구스파크점",
+  "year": "2025",
+  "tags": [
+    "시스템에어컨",
+    "현장 설치"
+  ],
+  "summary": "복합 상업시설 내 게임 매장 냉난방.",
+  "cover": "assets/references/jjang-daegu-7.webp",
+  "sections": [
+    {
+      "heading": "현장 소개",
+      "body": "매장 내부의 천장형 실내기와 입점 공간의 전경입니다."
+    }
+  ],
+  "gallery": [
+    "assets/references/jjang-daegu-0.webp",
+    "assets/references/jjang-daegu-14.webp"
+  ],
+  "pdf": ""
+}

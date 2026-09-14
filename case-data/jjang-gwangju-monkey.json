@@ -1,0 +1,22 @@
+{
+  "title": "짱오락실 광주몽키터미널점",
+  "place": "짱오락실 · 광주몽키터미널점",
+  "year": "2026",
+  "tags": [
+    "시스템에어컨",
+    "현장 설치"
+  ],
+  "summary": "매장 실내기와 옥외 실외기 구성.",
+  "cover": "assets/references/jjang-gwangju-monkey-6.webp",
+  "sections": [
+    {
+      "heading": "현장 소개",
+      "body": "매장 천장에 설치된 시스템에어컨과 실외기 설치 현장을 담았습니다."
+    }
+  ],
+  "gallery": [
+    "assets/references/jjang-gwangju-monkey-0.webp",
+    "assets/references/jjang-gwangju-monkey-11.webp"
+  ],
+  "pdf": ""
+}

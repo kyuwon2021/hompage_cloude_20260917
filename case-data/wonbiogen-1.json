@@ -1,0 +1,22 @@
+{
+  "title": "원바이오젠 제1공장",
+  "place": "원바이오젠 · 1공장시스템에어컨및가전제품",
+  "year": "2023",
+  "tags": [
+    "시스템에어컨",
+    "현장 설치"
+  ],
+  "summary": "시스템에어컨과 공용 공간 가전 구성.",
+  "cover": "assets/references/wonbiogen-1-2.webp",
+  "sections": [
+    {
+      "heading": "현장 소개",
+      "body": "천장형 냉난방 설비와 공용 공간의 디스플레이·가전 배치를 담았습니다."
+    }
+  ],
+  "gallery": [
+    "assets/references/wonbiogen-1-0.webp",
+    "assets/references/wonbiogen-1-3.webp"
+  ],
+  "pdf": ""
+}

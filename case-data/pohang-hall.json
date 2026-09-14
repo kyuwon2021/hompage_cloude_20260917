@@ -1,0 +1,22 @@
+{
+  "title": "포항문화교육원 대강당",
+  "place": "포항문화교육원대강당",
+  "year": "2018",
+  "tags": [
+    "디지털 사이니지",
+    "디스플레이"
+  ],
+  "summary": "대강당 무대 양측의 디스플레이 구성.",
+  "cover": "assets/references/pohang-hall-44.webp",
+  "sections": [
+    {
+      "heading": "현장 소개",
+      "body": "대강당 전면의 디스플레이 설치와 벽면 구조물 작업 과정을 담았습니다."
+    }
+  ],
+  "gallery": [
+    "assets/references/pohang-hall-22.webp",
+    "assets/references/pohang-hall-0.webp"
+  ],
+  "pdf": ""
+}

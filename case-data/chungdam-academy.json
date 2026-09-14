@@ -1,0 +1,21 @@
+{
+  "title": "청담어학원 시스템에어컨",
+  "place": "청담어학원 · 시스템에어컨공사",
+  "year": "2022",
+  "tags": [
+    "시스템에어컨",
+    "현장 설치"
+  ],
+  "summary": "강의·상담 공간을 위한 시스템에어컨.",
+  "cover": "assets/references/chungdam-academy-4.webp",
+  "sections": [
+    {
+      "heading": "현장 소개",
+      "body": "실내 구획과 천장에 맞춘 실내기 배치, 창가 공간의 설치 모습을 소개합니다."
+    }
+  ],
+  "gallery": [
+    "assets/references/chungdam-academy-8.webp"
+  ],
+  "pdf": ""
+}
