@@ -31,3 +31,5 @@
 !/case-data/
 /case-data/*
 !/case-data/*.json
+
+!/assets/references/admin-*-20260915.jpg

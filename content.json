@@ -16,7 +16,7 @@
       "desc": "시스템에어컨부터 디스플레이, 모바일까지.\n제품 상담과 설치, 운영을 유승에서 함께합니다.",
       "image": "assets/space-hero.webp",
       "alt": "디스플레이가 설치된 프리미엄 로비 공간 콘셉트",
-      "label": "토탈솔루션",
+      "label": "유승토탈솔루션",
       "link": "#biz",
       "cta": "제품 살펴보기",
       "position": "center",
@@ -51,8 +51,8 @@
     {
       "key": "mobile",
       "eyebrow": "SK텔레콤 임직원 특판",
-      "title": "임직원을 위한\n모바일 방문 상담",
-      "desc": "기업의 일정과 장소에 맞춰 준비하는\nSK텔레콤 특판 행사와 모바일 제품 상담.",
+      "title": "임직원을 위한\nSK 텔레콤 특판 대리점 ",
+      "desc": "기업체 임직원 및 가족에게 365일 \nSK텔레콤 특판 행사와 모바일 제품 상담.\n",
       "image": "assets/hero/mobile.webp",
       "alt": "SK텔레콤 임직원 특별 상담 부스 콘셉트",
       "label": "SKT 임직원 특판",
@@ -130,45 +130,30 @@
   ],
   "cases": [
     {
-      "id": "jeong-yoga",
-      "title": "정요가학원 시스템에어컨",
-      "place": "정요가학원 · 싱글시스템에어컨",
-      "cat": "hvac",
-      "year": "2026",
-      "tags": [
-        "시스템에어컨",
-        "현장 설치"
-      ],
-      "note": "운동 공간의 천장형 시스템에어컨 설치.",
-      "img": "assets/references/jeong-yoga-2.webp",
-      "badge": "2026 현장 기록",
-      "hasDetail": true,
-      "kind": "site",
-      "sourceLabel": "정요가학원_싱글시스템에어컨"
-    },
-    {
       "id": "jjang-arcade",
       "title": "짱게임즈 선릉 디자인센터",
       "place": "서울 · 업무 공간",
-      "cat": "hvac",
       "year": "2026",
+      "kind": "site",
+      "sourceLabel": "짱게임즈시스템에어컨\\짱오락실_선릉디자인센터",
+      "cat": "hvac",
       "tags": [
         "시스템에어컨",
         "실내기·실외기 설치"
       ],
       "note": "업무 공간과 회의 공간에 맞춘 천장형 시스템에어컨 구성.",
-      "img": "assets/references/jjang-1.webp",
+      "img": "assets/references/admin-jjang-arcade-20260915.jpg",
       "badge": "2026 현장 기록",
-      "hasDetail": true,
-      "kind": "site",
-      "sourceLabel": "짱게임즈시스템에어컨\\짱오락실_선릉디자인센터"
+      "hasDetail": true
     },
     {
       "id": "jjang-gangnam",
       "title": "짱오락실 강남대로점",
       "place": "짱오락실 · 강남대로점",
-      "cat": "hvac",
       "year": "2026",
+      "kind": "site",
+      "sourceLabel": "짱게임즈시스템에어컨\\짱오락실_강남대로점",
+      "cat": "hvac",
       "tags": [
         "시스템에어컨",
         "현장 설치"
@@ -176,118 +161,134 @@
       "note": "게임 공간의 천장형 냉난방 설비.",
       "img": "assets/references/jjang-gangnam-2.webp",
       "badge": "2026 현장 기록",
-      "hasDetail": true,
-      "kind": "site",
-      "sourceLabel": "짱게임즈시스템에어컨\\짱오락실_강남대로점"
+      "hasDetail": true
     },
     {
       "id": "jjang-gwangju-monkey",
       "title": "짱오락실 광주몽키터미널점",
       "place": "짱오락실 · 광주몽키터미널점",
-      "cat": "hvac",
       "year": "2026",
+      "kind": "site",
+      "sourceLabel": "짱게임즈시스템에어컨\\짱오락실_광주몽키터미널점",
+      "cat": "hvac",
+      "tags": [
+        "삼성DVM S2 시스템에어컨",
+        "중대형 스탠드에어컨 현장 설치"
+      ],
+      "note": "대규모 매장 시스템에어컨 및 중대형 스탠드에어컨 설치환경에 따른 맞춤형 제안 시공.",
+      "img": "assets/references/admin-jjang-gwangju-monkey-20260915.jpg",
+      "badge": "2026 현장 기록",
+      "hasDetail": true
+    },
+    {
+      "id": "pilates",
+      "title": "00필라테스 시스템에어컨",
+      "place": "00필라테스 · 싱글시스템에어컨",
+      "year": "2026",
+      "kind": "site",
+      "sourceLabel": "정요가학원_싱글시스템에어컨",
+      "cat": "hvac",
       "tags": [
         "시스템에어컨",
         "현장 설치"
       ],
-      "note": "매장 실내기와 옥외 실외기 구성.",
-      "img": "assets/references/jjang-gwangju-monkey-6.webp",
+      "note": "운동 공간의 천장형 시스템에어컨 설치.",
+      "img": "assets/references/jeong-yoga-2.webp",
       "badge": "2026 현장 기록",
-      "hasDetail": true,
-      "kind": "site",
-      "sourceLabel": "짱게임즈시스템에어컨\\짱오락실_광주몽키터미널점"
+      "hasDetail": true
     },
     {
       "id": "jjang-busan",
       "title": "짱오락실 부산광안리점",
       "place": "짱오락실 · 부산광안리점",
-      "cat": "hvac",
       "year": "2026",
+      "kind": "site",
+      "sourceLabel": "짱게임즈시스템에어컨\\짱오락실_부산광안리점",
+      "cat": "hvac",
       "tags": [
-        "시스템에어컨",
-        "현장 설치"
+        "싱글형 4way시스템에어컨 현장 설치"
       ],
       "note": "신규 매장 공정에 맞춘 냉난방 설치.",
       "img": "assets/references/jjang-busan-1.webp",
       "badge": "2026 현장 기록",
-      "hasDetail": true,
-      "kind": "site",
-      "sourceLabel": "짱게임즈시스템에어컨\\짱오락실_부산광안리점"
+      "hasDetail": true
     },
     {
       "id": "jjang-yongsan",
       "title": "짱오락실 용산아이파크몰점",
       "place": "짱오락실 · 용산아이파크몰점",
-      "cat": "hvac",
       "year": "2026",
-      "tags": [
-        "시스템에어컨",
-        "현장 설치"
-      ],
-      "note": "상업시설 내 시스템에어컨 시공.",
-      "img": "assets/references/jjang-yongsan-2.webp",
-      "badge": "2026 현장 기록",
-      "hasDetail": true,
       "kind": "site",
-      "sourceLabel": "짱게임즈시스템에어컨\\짱오락실_용산아이파크몰점"
+      "sourceLabel": "짱게임즈시스템에어컨\\짱오락실_용산아이파크몰점",
+      "cat": "hvac",
+      "tags": [
+        "삼성DVM S2시스템에어컨",
+        "360CST 현장 설치"
+      ],
+      "note": "용산아이파크 쇼핑몰 내 시스템에어컨 시공.",
+      "img": "assets/references/admin-jjang-yongsan-20260915.jpg",
+      "badge": "2026 현장 기록",
+      "hasDetail": true
     },
     {
       "id": "jjang-daegu",
       "title": "짱오락실 대구스파크점",
       "place": "짱오락실 · 대구스파크점",
-      "cat": "hvac",
       "year": "2025",
+      "kind": "site",
+      "sourceLabel": "짱게임즈시스템에어컨\\짱오락실_대구스파크점",
+      "cat": "hvac",
       "tags": [
-        "시스템에어컨",
+        "삼성 DVM S2 시스템에어컨",
         "현장 설치"
       ],
-      "note": "복합 상업시설 내 게임 매장 냉난방.",
+      "note": "대구 스파크 복합 쇼핑몰 상업시설 내 게임 매장 냉난방.",
       "img": "assets/references/jjang-daegu-7.webp",
       "badge": "2025 현장 기록",
-      "hasDetail": true,
-      "kind": "site",
-      "sourceLabel": "짱게임즈시스템에어컨\\짱오락실_대구스파크점"
+      "hasDetail": true
     },
     {
       "id": "jjang-bupyeong",
       "title": "짱오락실 부평2호점",
       "place": "짱오락실 · 부평2호점",
-      "cat": "hvac",
       "year": "2025",
+      "kind": "site",
+      "sourceLabel": "짱게임즈시스템에어컨\\짱오락실_부평2호점",
+      "cat": "hvac",
       "tags": [
-        "시스템에어컨",
+        "삼성DVM S2 시스템에어컨",
         "현장 설치"
       ],
-      "note": "시스템에어컨 프로젝트 현장 기록.",
+      "note": "부평로데오점 시스템에어컨 프로젝트 현장 기록.",
       "img": "assets/references/jjang-bupyeong-0.webp",
       "badge": "2025 현장 기록",
-      "hasDetail": true,
-      "kind": "site",
-      "sourceLabel": "짱게임즈시스템에어컨\\짱오락실_부평2호점"
+      "hasDetail": true
     },
     {
       "id": "jjang-anyang",
       "title": "짱오락실 안양점",
       "place": "짱오락실 · 안양점",
-      "cat": "hvac",
       "year": "2025",
+      "kind": "site",
+      "sourceLabel": "짱게임즈시스템에어컨\\짱오락실_안양점",
+      "cat": "hvac",
       "tags": [
-        "시스템에어컨",
+        "4way 싱글형 시스템에어컨",
         "현장 설치"
       ],
       "note": "실내 공간에 맞춘 천장형 냉난방 구성.",
       "img": "assets/references/jjang-anyang-10.webp",
       "badge": "2025 현장 기록",
-      "hasDetail": true,
-      "kind": "site",
-      "sourceLabel": "짱게임즈시스템에어컨\\짱오락실_안양점"
+      "hasDetail": true
     },
     {
       "id": "jjang-head-office",
       "title": "짱게임즈 영등포 본사사무실",
       "place": "짱오락실 · 영등포본사사무실",
-      "cat": "hvac",
       "year": "2024",
+      "kind": "site",
+      "sourceLabel": "짱게임즈시스템에어컨\\짱오락실_영등포본사사무실",
+      "cat": "hvac",
       "tags": [
         "시스템에어컨",
         "현장 설치"
@@ -295,33 +296,33 @@
       "note": "업무 공간의 시스템에어컨 구성.",
       "img": "assets/references/jjang-head-office-2.webp",
       "badge": "2024 현장 기록",
-      "hasDetail": true,
-      "kind": "site",
-      "sourceLabel": "짱게임즈시스템에어컨\\짱오락실_영등포본사사무실"
+      "hasDetail": true
     },
     {
       "id": "jjang-gwangju",
       "title": "짱오락실 광주첨단점",
       "place": "짱오락실 · 광주첨단점",
-      "cat": "hvac",
       "year": "2024",
+      "kind": "site",
+      "sourceLabel": "짱게임즈시스템에어컨\\짱오락실_광주첨단점",
+      "cat": "hvac",
       "tags": [
-        "시스템에어컨",
+        "삼성 4way 싱글형 시스템에어컨",
         "현장 설치"
       ],
       "note": "매장 천장 구조에 맞춘 시스템에어컨.",
       "img": "assets/references/jjang-gwangju-7.webp",
       "badge": "2024 현장 기록",
-      "hasDetail": true,
-      "kind": "site",
-      "sourceLabel": "짱게임즈시스템에어컨\\짱오락실_광주첨단점"
+      "hasDetail": true
     },
     {
       "id": "wonbiogen-1",
       "title": "원바이오젠 제1공장",
       "place": "원바이오젠 · 1공장시스템에어컨및가전제품",
-      "cat": "hvac",
       "year": "2023",
+      "kind": "site",
+      "sourceLabel": "원바이오젠_1공장시스템에어컨및가전제품",
+      "cat": "hvac",
       "tags": [
         "시스템에어컨",
         "현장 설치"
@@ -329,50 +330,50 @@
       "note": "시스템에어컨과 공용 공간 가전 구성.",
       "img": "assets/references/wonbiogen-1-2.webp",
       "badge": "2023 현장 기록",
-      "hasDetail": true,
-      "kind": "site",
-      "sourceLabel": "원바이오젠_1공장시스템에어컨및가전제품"
+      "hasDetail": true
     },
     {
       "id": "wonbiogen-hvac",
       "title": "원바이오젠 제2공장",
       "place": "생산시설 · 사무·공용 공간",
-      "cat": "hvac",
       "year": "2023",
+      "kind": "site",
+      "sourceLabel": "원바이오젠_2공장시스템에어컨공사",
+      "cat": "hvac",
       "tags": [
-        "시스템에어컨",
-        "공장·사무실"
+        "삼성 DVM S2 시스템에어컨",
+        "공장·사무실 시공"
       ],
       "note": "사무실과 회의실, 공용 공간의 시스템에어컨 시공.",
       "img": "assets/references/wonbiogen-1.webp",
       "badge": "2023 현장 기록",
-      "hasDetail": true,
-      "kind": "site",
-      "sourceLabel": "원바이오젠_2공장시스템에어컨공사"
+      "hasDetail": true
     },
     {
       "id": "chungdam-academy",
       "title": "청담어학원 시스템에어컨",
       "place": "청담어학원 · 시스템에어컨공사",
-      "cat": "hvac",
       "year": "2022",
+      "kind": "site",
+      "sourceLabel": "청담어학원_시스템에어컨공사",
+      "cat": "hvac",
       "tags": [
-        "시스템에어컨",
+        "삼성DVM S2 시스템에어컨",
         "현장 설치"
       ],
       "note": "강의·상담 공간을 위한 시스템에어컨.",
       "img": "assets/references/chungdam-academy-4.webp",
       "badge": "2022 현장 기록",
-      "hasDetail": true,
-      "kind": "site",
-      "sourceLabel": "청담어학원_시스템에어컨공사"
+      "hasDetail": true
     },
     {
       "id": "posco-led",
       "title": "포스코센터 LED 디스플레이",
       "place": "서울 강남 · 회의실",
-      "cat": "led",
       "year": "2019",
+      "kind": "site",
+      "sourceLabel": "포스코센터_강남_제1회의실및CEO집무실LED전광판납품",
+      "cat": "led",
       "tags": [
         "LED 전광판",
         "기업 회의실"
@@ -380,51 +381,52 @@
       "note": "기업 회의 공간을 위한 대형 LED 디스플레이 납품·설치.",
       "img": "assets/references/posco-1.webp",
       "badge": "2019 현장 기록",
-      "hasDetail": true,
-      "kind": "site",
-      "sourceLabel": "포스코센터_강남_제1회의실및CEO집무실LED전광판납품"
+      "hasDetail": true
     },
     {
       "id": "hotel-jace",
       "title": "호텔제이스 객실 솔루션",
       "place": "숙박시설 · 객실·로비",
-      "cat": "tv",
       "year": "2019",
+      "kind": "site",
+      "sourceLabel": "호텔제이스",
+      "cat": "hvac",
       "tags": [
         "객실 TV",
         "시스템에어컨",
-        "호텔 가전"
+        "호텔 가전",
+        "사이니지 납품"
       ],
       "note": "객실 TV와 냉난방, 공용 공간 가전 납품 사례.",
       "img": "assets/references/hotel-jace-1.webp",
       "badge": "2019 현장 기록",
-      "hasDetail": true,
-      "kind": "site",
-      "sourceLabel": "호텔제이스"
+      "hasDetail": true
     },
     {
       "id": "gumi-water-control",
       "title": "구미시 정수장 상황실",
       "place": "구미시 정수장상황실",
-      "cat": "lcd",
       "year": "2018",
+      "kind": "site",
+      "sourceLabel": "구미시 정수장상황실",
+      "cat": "lcd",
       "tags": [
         "디지털 사이니지",
         "디스플레이"
       ],
-      "note": "상황실 디스플레이 설치·연결 작업.",
-      "img": "assets/references/gumi-water-control-15.webp",
+      "note": "상황실 비디오월 디스플레이 설치·연결 작업.",
+      "img": "assets/references/admin-gumi-water-control-20260915.jpg",
       "badge": "2018 현장 기록",
-      "hasDetail": true,
-      "kind": "site",
-      "sourceLabel": "구미시 정수장상황실"
+      "hasDetail": true
     },
     {
       "id": "lecoq-did",
       "title": "르꼬끄 매장 DID",
       "place": "르꼬끄 DID",
-      "cat": "lcd",
       "year": "2018",
+      "kind": "site",
+      "sourceLabel": "르꼬끄 DID",
+      "cat": "lcd",
       "tags": [
         "디지털 사이니지",
         "디스플레이"
@@ -432,67 +434,50 @@
       "note": "리테일 공간에 어우러지는 세로형 사이니지.",
       "img": "assets/references/lecoq-did-15.webp",
       "badge": "2018 현장 기록",
-      "hasDetail": true,
-      "kind": "site",
-      "sourceLabel": "르꼬끄 DID"
+      "hasDetail": true
     },
     {
       "id": "sstech-jeju",
       "title": "제주 SStech 연수원",
       "place": "제주도 SStech 연수원납품",
-      "cat": "tv",
       "year": "2018",
+      "kind": "site",
+      "sourceLabel": "제주도 SStech 연수원납품",
+      "cat": "hvac",
       "tags": [
         "TV",
         "가전 납품"
       ],
-      "note": "연수원 TV와 생활가전 납품.",
+      "note": "연수원 TV 와 생활가전 납품.",
       "img": "assets/references/sstech-jeju-5.webp",
       "badge": "2018 현장 기록",
-      "hasDetail": true,
-      "kind": "site",
-      "sourceLabel": "제주도 SStech 연수원납품"
+      "hasDetail": true
     },
     {
       "id": "pohang-hall",
       "title": "포항문화교육원 대강당",
       "place": "포항문화교육원대강당",
-      "cat": "lcd",
       "year": "2018",
+      "kind": "site",
+      "sourceLabel": "포항문화교육원대강당",
+      "cat": "lcd",
       "tags": [
-        "디지털 사이니지",
-        "디스플레이"
+        "비디월 디지털 사이니지",
+        "대형 디스플레이"
       ],
       "note": "대강당 무대 양측의 디스플레이 구성.",
-      "img": "assets/references/pohang-hall-44.webp",
+      "img": "assets/references/admin-pohang-hall-20260915.jpg",
       "badge": "2018 현장 기록",
-      "hasDetail": true,
-      "kind": "site",
-      "sourceLabel": "포항문화교육원대강당"
-    },
-    {
-      "id": "gangdong-did",
-      "title": "구미강동병원 DID",
-      "place": "구미강동병원DID",
-      "cat": "lcd",
-      "year": "2017",
-      "tags": [
-        "디지털 사이니지",
-        "디스플레이"
-      ],
-      "note": "병원 공용 공간의 안내 디스플레이.",
-      "img": "assets/references/gangdong-did-0.webp",
-      "badge": "2017 현장 기록",
-      "hasDetail": true,
-      "kind": "site",
-      "sourceLabel": "구미강동병원DID"
+      "hasDetail": true
     },
     {
       "id": "gangdong-bed-tv",
-      "title": "구미강동병원 투석실 병상 TV",
+      "title": "구미강동병원 투석실 병상 TV 및 DID",
       "place": "구미강동병원DID및투석실병상TV",
-      "cat": "tv",
       "year": "2017",
+      "kind": "site",
+      "sourceLabel": "구미강동병원DID및투석실병상TV",
+      "cat": "led",
       "tags": [
         "TV",
         "가전 납품"
@@ -500,16 +485,16 @@
       "note": "병상별 시청 환경을 위한 TV와 공용 DID.",
       "img": "assets/references/gangdong-bed-tv-18.webp",
       "badge": "2017 현장 기록",
-      "hasDetail": true,
-      "kind": "site",
-      "sourceLabel": "구미강동병원DID및투석실병상TV"
+      "hasDetail": true
     },
     {
       "id": "gumi-outdoor-led",
       "title": "구미시 옥외 전광판",
       "place": "공공시설 · 옥외 안내",
-      "cat": "led",
       "year": "2017",
+      "kind": "site",
+      "sourceLabel": "구미시 전광판",
+      "cat": "led",
       "tags": [
         "옥외 LED",
         "공공 안내"
@@ -517,33 +502,33 @@
       "note": "공공 정보와 행사 소식을 전달하는 옥외 LED 전광판.",
       "img": "assets/references/gumi-led-1.webp",
       "badge": "2017 현장 기록",
-      "hasDetail": true,
-      "kind": "site",
-      "sourceLabel": "구미시 전광판"
+      "hasDetail": true
     },
     {
       "id": "gumi-disaster-room",
       "title": "구미시청 안전재난과 상황실",
       "place": "구미시청 안전재난과 상황실",
-      "cat": "lcd",
       "year": "2017",
+      "kind": "site",
+      "sourceLabel": "구미시청 안전재난과 상황실",
+      "cat": "lcd",
       "tags": [
         "디지털 사이니지",
         "디스플레이"
       ],
-      "note": "상황실 회의 공간의 대형 멀티 디스플레이.",
+      "note": "구미시 재난 상황실 회의 공간의 대형 멀티 디스플레이.",
       "img": "assets/references/gumi-disaster-room-4.webp",
       "badge": "2017 현장 기록",
-      "hasDetail": true,
-      "kind": "site",
-      "sourceLabel": "구미시청 안전재난과 상황실"
+      "hasDetail": true
     },
     {
       "id": "toray-skt",
       "title": "도레이 임직원 SKT 행사",
       "place": "기업 행사 · 임직원 모바일 상담",
-      "cat": "mobile",
       "year": "2017–2018",
+      "kind": "site",
+      "sourceLabel": "도레이 SKT 행사",
+      "cat": "mobile",
       "tags": [
         "SK텔레콤",
         "임직원 특판 행사"
@@ -551,94 +536,58 @@
       "note": "기업 행사와 연계한 SKT 모바일 상담 및 제품 체험.",
       "img": "assets/references/toray-1.webp",
       "badge": "2017–2018 현장 기록",
-      "hasDetail": true,
-      "kind": "site",
-      "sourceLabel": "도레이 SKT 행사"
+      "hasDetail": true
     },
     {
       "id": "kyungwoon-did",
       "title": "경운대학교 DID",
       "place": "경운대학교DID",
-      "cat": "lcd",
       "year": "2016",
+      "kind": "site",
+      "sourceLabel": "경운대학교DID",
+      "cat": "lcd",
       "tags": [
         "디지털 사이니지",
         "디스플레이"
       ],
       "note": "교내 안내를 위한 세로형 디지털 사이니지.",
-      "img": "assets/references/kyungwoon-did-157.webp",
+      "img": "assets/references/admin-kyungwoon-did-20260915.jpg",
       "badge": "2016 현장 기록",
-      "hasDetail": true,
-      "kind": "site",
-      "sourceLabel": "경운대학교DID"
+      "hasDetail": true
     },
     {
       "id": "gumi-health-did",
       "title": "구미시보건소 DID",
       "place": "구미시보건소DID",
-      "cat": "lcd",
       "year": "2016",
+      "kind": "site",
+      "sourceLabel": "구미시보건소DID",
+      "cat": "lcd",
       "tags": [
         "디지털 사이니지",
         "디스플레이"
       ],
       "note": "보건소 방문객을 위한 디지털 안내 화면.",
-      "img": "assets/references/gumi-health-did-30.webp",
+      "img": "assets/references/admin-gumi-health-did-20260915.jpg",
       "badge": "2016 현장 기록",
-      "hasDetail": true,
-      "kind": "site",
-      "sourceLabel": "구미시보건소DID"
+      "hasDetail": true
     },
     {
       "id": "gumi-cityhall-did",
       "title": "구미시청 DID",
       "place": "구미시청 DID",
-      "cat": "lcd",
       "year": "2016",
+      "kind": "site",
+      "sourceLabel": "구미시청 DID",
+      "cat": "lcd",
       "tags": [
         "디지털 사이니지",
         "디스플레이"
       ],
       "note": "시청 공용 공간의 디지털 안내 구성.",
-      "img": "assets/references/gumi-cityhall-did-15.webp",
-      "badge": "2016 현장 기록",
-      "hasDetail": true,
-      "kind": "site",
-      "sourceLabel": "구미시청 DID"
-    },
-    {
-      "id": "screencast-archive",
-      "title": "구미 동락공원 Screencast Sign 자료",
-      "place": "스크린캐스터관련자료",
-      "cat": "solution",
-      "year": "2017",
-      "tags": [
-        "운영 솔루션",
-        "과거 제안 자료"
-      ],
-      "note": "디지털 안내 콘텐츠 운영·터치 함체 제안 자료.",
-      "img": "",
-      "badge": "2017 구성·제안 자료",
-      "hasDetail": true,
-      "kind": "plan",
-      "sourceLabel": "스크린캐스터관련자료"
-    },
-    {
-      "id": "gumi-control-plan",
-      "title": "구미시 도시통합관제센터 구성안",
-      "place": "구미시 도시통합관제센터",
-      "cat": "lcd",
-      "year": "2010",
-      "tags": [
-        "디지털 사이니지",
-        "디스플레이"
-      ],
-      "note": "도시통합관제센터 디스플레이 구성 자료.",
-      "img": "assets/references/gumi-control-plan-0.webp",
-      "badge": "2010 구성·제안 자료",
-      "hasDetail": true,
-      "kind": "plan",
-      "sourceLabel": "구미시 도시통합관제센터"
+      "img": "assets/references/admin-gumi-cityhall-did-20260915.jpg",
+      "badge": "2009 현장 기록",
+      "hasDetail": true
     }
   ],
   "videos": [
