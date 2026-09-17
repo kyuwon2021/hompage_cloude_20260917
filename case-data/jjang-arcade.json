@@ -1,13 +1,20 @@
 {
+  "summary": "업무 공간과 회의 공간에 맞춘 천장형 시스템에어컨 구성.",
+  "pdf": "",
+  "pdfLabel": "시공 완료보고서",
   "title": "짱게임즈 선릉 디자인센터",
   "place": "서울 · 업무 공간",
-  "year": "2026",
   "tags": [
     "시스템에어컨",
     "실내기·실외기 설치"
   ],
-  "summary": "업무 공간과 회의 공간에 맞춘 천장형 시스템에어컨 구성.",
-  "cover": "assets/references/admin-jjang-arcade-20260915.jpg",
+  "year": "2026",
+  "cover": "assets/references/jjang-1.webp",
+  "gallery": [
+    "assets/references/jjang-1.webp",
+    "assets/references/jjang-2.webp",
+    "assets/references/jjang-3.webp"
+  ],
   "sections": [
     {
       "heading": "업무 공간에 맞춘 실내기 배치",
@@ -16,15 +23,8 @@
     },
     {
       "heading": "실내부터 실외까지 이어지는 설치",
-      "body": "실내기뿐 아니라 실외기 설치까지 연결되는 냉난방 시스템을 구성했습니다. 설비 위치와 주변 여건은 현장에 맞춰 검토합니다.",
+      "body": "실내기뿐 아니라 실외기 설치까지 연결되는 냉난방 시스템특성상 설비 위치와 주변 여건은 현장에 맞춰 사전검토 후 설치합니다.",
       "img": "assets/references/jjang-3.webp"
     }
-  ],
-  "gallery": [
-    "assets/references/jjang-1.webp",
-    "assets/references/jjang-2.webp",
-    "assets/references/jjang-3.webp"
-  ],
-  "pdf": "",
-  "pdfLabel": "시공 완료보고서"
+  ]
 }
