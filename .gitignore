@@ -32,4 +32,6 @@
 /case-data/*
 !/case-data/*.json
 
-!/assets/references/admin-*-20260915.jpg
+!/assets/references/admin-*.jpg
+!/assets/references/admin-*.png
+!/assets/references/admin-*.webp
