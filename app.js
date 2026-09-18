@@ -74,7 +74,36 @@ const k=data.config.kakaoHomeId;if(k&&!k.includes('여기에')&&/^_[\w-]+$/.test
 const form=$('#contact-form');const inquiry=()=>{const d=new FormData(form);return `[홈페이지 프로젝트 상담]\n\n성함 / 업체명: ${d.get('name')}\n연락처: ${d.get('phone')}\n관심 솔루션: ${products.find(p=>p.key===d.get('product'))?.title||'상담 후 결정'}\n현장 / 업종: ${d.get('site')||'미정'}\n\n문의 내용\n${d.get('message')}`;};
 form.elements.phone.removeAttribute('pattern');
 function valid(){const phone=form.elements.phone;phone.setCustomValidity(/^[0-9+()\s-]{8,20}$/.test(phone.value)?'':'연락처를 숫자와 하이픈으로 8~20자 입력해 주세요.');return form.reportValidity();}form.elements.phone.addEventListener('input',()=>form.elements.phone.setCustomValidity(''));
-form.addEventListener('submit',e=>{e.preventDefault();if(!valid())return;location.href=`mailto:${data.config.email}?subject=${encodeURIComponent('[프로젝트 상담] '+form.elements.name.value)}&body=${encodeURIComponent(inquiry())}`;$('#form-status').textContent='메일 앱 열기를 요청했습니다. 앱이 열리지 않으면 문의 내용을 복사해 '+data.config.email+'로 보내주세요.';});
+const mailtoHref=()=>`mailto:${data.config.email}?subject=${encodeURIComponent('[프로젝트 상담] '+form.elements.name.value)}&body=${encodeURIComponent(inquiry())}`;
+form.addEventListener('submit',async e=>{
+  e.preventDefault();
+  if(!valid())return;
+  if(form.elements.botcheck&&form.elements.botcheck.checked)return;   /* 봇 차단용 숨은 칸 */
+  const btn=form.querySelector('button[type=submit]'),st=$('#form-status'),label=btn.textContent;
+  btn.disabled=true;btn.textContent='보내는 중…';st.textContent='';
+  const payload={
+    access_key:form.elements.access_key.value,
+    subject:'[홈페이지 도입 상담] '+form.elements.name.value,
+    from_name:'(주)유승토탈솔루션 홈페이지',
+    '성함 / 업체명':form.elements.name.value,
+    '연락처':form.elements.phone.value,
+    '관심 솔루션':products.find(p=>p.key===form.elements.product.value)?.title||'상담 후 결정',
+    '현장 / 업종':form.elements.site.value||'미정',
+    '문의 내용':form.elements.message.value
+  };
+  try{
+    const r=await fetch('https://api.web3forms.com/submit',{method:'POST',headers:{'Content-Type':'application/json',Accept:'application/json'},body:JSON.stringify(payload)});
+    const j=await r.json().catch(()=>({}));
+    if(!r.ok||!j.success)throw new Error(j.message||'전송 실패');
+    form.reset();
+    st.textContent='상담 신청이 접수되었습니다. 영업일 기준 1일 안에 연락드리겠습니다.';
+  }catch(err){
+    st.replaceChildren();
+    st.append('전송에 실패했습니다. ');
+    const a=document.createElement('a');a.href=mailtoHref();a.textContent='메일 앱으로 보내기';a.className='text-link';
+    st.append(a);st.append(' 를 이용하시거나 '+data.config.email+'로 보내주세요.');
+  }finally{btn.disabled=false;btn.textContent=label;}
+});
 $('#copy-inquiry').addEventListener('click',async()=>{if(!valid())return;try{await navigator.clipboard.writeText(inquiry());$('#form-status').textContent='문의 내용을 복사했습니다. '+data.config.email+'로 보내주세요.';}catch{let t=$('#copy-fallback');if(!t){t=document.createElement('textarea');t.id='copy-fallback';t.readOnly=true;t.setAttribute('aria-label','복사할 문의 내용');form.append(t);}t.value=inquiry();t.select();$('#form-status').textContent='아래 내용을 선택한 뒤 복사해 이메일로 보내주세요.';}});
 if('IntersectionObserver'in window){const observer=new IntersectionObserver(entries=>entries.forEach(e=>{if(e.isIntersecting)$$('.desktop-nav a').forEach(a=>a.classList.toggle('active',a.hash==='#'+e.target.id));}),{rootMargin:'-15% 0px -65% 0px'});$$('main section[id]').forEach(s=>observer.observe(s));}}
 async function detail(){const id=new URLSearchParams(location.search).get('id')||'';const meta=(data.cases||[]).find(c=>c.id===id&&!c.id.startsWith('ex-'));let d=null;if(/^[a-zA-Z0-9_-]+$/.test(id)){if(location.protocol!=='file:'){try{const r=await fetch(`case-data/${encodeURIComponent(id)}.json`,{cache:'no-store'});if(r.ok)d=await r.json();}catch{}}else d=window.YTS_CASES?.[id]||(id==='jjang-arcade'?window.YTS_CASE:null);}
