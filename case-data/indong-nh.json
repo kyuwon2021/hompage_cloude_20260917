@@ -9,22 +9,29 @@
   "환기 시스템"
  ],
  "year": "2020",
- "cover": "assets/references/indong-nh-1.webp",
+ "cover": "assets/references/indong-nh-01.webp",
  "gallery": [
-  "assets/references/indong-nh-1.webp",
-  "assets/references/indong-nh-2.webp",
-  "assets/references/indong-nh-3.webp"
+  "assets/references/indong-nh-01.webp",
+  "assets/references/indong-nh-02.webp",
+  "assets/references/indong-nh-03.webp",
+  "assets/references/indong-nh-04.webp",
+  "assets/references/indong-nh-05.webp",
+  "assets/references/indong-nh-06.webp",
+  "assets/references/indong-nh-07.webp",
+  "assets/references/indong-nh-08.webp",
+  "assets/references/indong-nh-09.webp",
+  "assets/references/indong-nh-10.webp"
  ],
  "sections": [
   {
    "heading": "옥상 실외기 구성",
    "body": "건물 옥상에 DVM 실외기를 배치하고, 배관 경로와 하중을 검토해 설치했습니다. 소음이 인접 공간에 전달되지 않도록 위치를 잡았습니다.",
-   "img": "assets/references/indong-nh-2.webp"
+   "img": "assets/references/indong-nh-02.webp"
   },
   {
    "heading": "구역별로 나눈 조작부",
    "body": "영업장과 사무실, 회의실을 각각 따로 제어할 수 있도록 조작부를 나눴습니다. 환기 시스템도 같은 방식으로 구역별 운전이 가능합니다.",
-   "img": "assets/references/indong-nh-3.webp"
+   "img": "assets/references/indong-nh-04.webp"
   }
  ]
 }

@@ -1,22 +1,31 @@
 {
-  "title": "짱오락실 안양점",
-  "place": "짱오락실 · 안양점",
-  "year": "2025",
-  "tags": [
-    "4way 싱글형 시스템에어컨",
-    "현장 설치"
-  ],
-  "summary": "실내 공간에 맞춘 천장형 냉난방 구성.",
-  "cover": "assets/references/jjang-anyang-10.webp",
-  "sections": [
-    {
-      "heading": "현장 소개",
-      "body": "실내기 설치 모습과 매장 외관을 함께 담은 현장 기록입니다."
-    }
-  ],
-  "gallery": [
-    "assets/references/jjang-anyang-5.webp",
-    "assets/references/jjang-anyang-0.webp"
-  ],
-  "pdf": ""
+ "title": "짱오락실 안양점",
+ "place": "짱오락실 · 안양점",
+ "year": "2025",
+ "tags": [
+  "4way 싱글형 시스템에어컨",
+  "현장 설치"
+ ],
+ "summary": "실내 공간에 맞춘 천장형 냉난방 구성.",
+ "cover": "assets/references/jjang-anyang-01.webp",
+ "sections": [
+  {
+   "heading": "현장 소개",
+   "body": "실내기 설치 모습과 매장 외관을 함께 담은 현장 기록입니다.",
+   "img": "assets/references/jjang-anyang-02.webp"
+  }
+ ],
+ "gallery": [
+  "assets/references/jjang-anyang-01.webp",
+  "assets/references/jjang-anyang-02.webp",
+  "assets/references/jjang-anyang-03.webp",
+  "assets/references/jjang-anyang-04.webp",
+  "assets/references/jjang-anyang-05.webp",
+  "assets/references/jjang-anyang-06.webp",
+  "assets/references/jjang-anyang-07.webp",
+  "assets/references/jjang-anyang-08.webp",
+  "assets/references/jjang-anyang-09.webp",
+  "assets/references/jjang-anyang-10.webp"
+ ],
+ "pdf": ""
 }

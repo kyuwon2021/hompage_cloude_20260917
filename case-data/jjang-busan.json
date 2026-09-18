@@ -1,20 +1,22 @@
 {
-  "title": "짱오락실 부산광안리점",
-  "place": "짱오락실 · 부산광안리점",
-  "year": "2026",
-  "tags": [
-    "싱글형 4way시스템에어컨 현장 설치"
-  ],
-  "summary": "신규 매장 공정에 맞춘 냉난방 설치.",
-  "cover": "assets/references/jjang-busan-1.webp",
-  "sections": [
-    {
-      "heading": "현장 소개",
-      "body": "내부 공사 중의 천장형 실내기와 옥외 실외기 설치 기록입니다."
-    }
-  ],
-  "gallery": [
-    "assets/references/jjang-busan-0.webp"
-  ],
-  "pdf": ""
+ "title": "짱오락실 부산광안리점",
+ "place": "짱오락실 · 부산광안리점",
+ "year": "2026",
+ "tags": [
+  "싱글형 4way시스템에어컨 현장 설치"
+ ],
+ "summary": "신규 매장 공정에 맞춘 냉난방 설치.",
+ "cover": "assets/references/jjang-busan-01.webp",
+ "sections": [
+  {
+   "heading": "현장 소개",
+   "body": "내부 공사 중의 천장형 실내기와 옥외 실외기 설치 기록입니다.",
+   "img": "assets/references/jjang-busan-02.webp"
+  }
+ ],
+ "gallery": [
+  "assets/references/jjang-busan-01.webp",
+  "assets/references/jjang-busan-02.webp"
+ ],
+ "pdf": ""
 }

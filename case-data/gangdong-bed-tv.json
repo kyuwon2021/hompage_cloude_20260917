@@ -1,21 +1,31 @@
 {
-  "title": "구미강동병원 투석실 병상 TV 및 DID",
-  "place": "구미강동병원DID및투석실병상TV",
-  "year": "2017",
-  "tags": [
-    "TV",
-    "가전 납품"
-  ],
-  "summary": "병상별 시청 환경을 위한 TV와 공용 DID.",
-  "cover": "assets/references/gangdong-bed-tv-18.webp",
-  "sections": [
-    {
-      "heading": "현장 소개",
-      "body": "투석실 병상 주변의 개별 TV와 공용 공간의 DID 구성을 담았습니다."
-    }
-  ],
-  "gallery": [
-    "assets/references/gangdong-bed-tv-0.webp"
-  ],
-  "pdf": ""
+ "title": "구미강동병원 투석실 병상 TV 및 DID",
+ "place": "구미강동병원DID및투석실병상TV",
+ "year": "2017",
+ "tags": [
+  "TV",
+  "가전 납품"
+ ],
+ "summary": "병상별 시청 환경을 위한 TV와 공용 DID.",
+ "cover": "assets/references/gangdong-bed-tv-01.webp",
+ "sections": [
+  {
+   "heading": "현장 소개",
+   "body": "투석실 병상 주변의 개별 TV와 공용 공간의 DID 구성을 담았습니다.",
+   "img": "assets/references/gangdong-bed-tv-02.webp"
+  }
+ ],
+ "gallery": [
+  "assets/references/gangdong-bed-tv-01.webp",
+  "assets/references/gangdong-bed-tv-02.webp",
+  "assets/references/gangdong-bed-tv-03.webp",
+  "assets/references/gangdong-bed-tv-04.webp",
+  "assets/references/gangdong-bed-tv-05.webp",
+  "assets/references/gangdong-bed-tv-06.webp",
+  "assets/references/gangdong-bed-tv-07.webp",
+  "assets/references/gangdong-bed-tv-08.webp",
+  "assets/references/gangdong-bed-tv-09.webp",
+  "assets/references/gangdong-bed-tv-10.webp"
+ ],
+ "pdf": ""
 }

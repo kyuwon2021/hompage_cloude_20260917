@@ -9,22 +9,26 @@
   "임원회의실"
  ],
  "year": "2024",
- "cover": "assets/references/hyundai-eng-led-1.webp",
+ "cover": "assets/references/hyundai-eng-led-01.webp",
  "gallery": [
-  "assets/references/hyundai-eng-led-1.webp",
-  "assets/references/hyundai-eng-led-2.webp",
-  "assets/references/hyundai-eng-led-3.webp"
+  "assets/references/hyundai-eng-led-01.webp",
+  "assets/references/hyundai-eng-led-02.webp",
+  "assets/references/hyundai-eng-led-03.webp",
+  "assets/references/hyundai-eng-led-04.webp",
+  "assets/references/hyundai-eng-led-05.webp",
+  "assets/references/hyundai-eng-led-06.webp",
+  "assets/references/hyundai-eng-led-07.webp"
  ],
  "sections": [
   {
    "heading": "회의 거리에 맞춘 화면 설계",
    "body": "가장 가까운 좌석과 가장 먼 좌석의 시야 거리를 함께 고려해 화면 크기와 설치 높이를 정했습니다. 조명 반사도 함께 검토했습니다.",
-   "img": "assets/references/hyundai-eng-led-2.webp"
+   "img": "assets/references/hyundai-eng-led-06.webp"
   },
   {
    "heading": "문서와 영상을 함께 다루는 화면",
    "body": "브라우저 화면과 도면, 영상 자료를 그대로 띄워도 글자가 뭉개지지 않도록 해상도와 밝기를 조정해 마무리했습니다.",
-   "img": "assets/references/hyundai-eng-led-3.webp"
+   "img": "assets/references/hyundai-eng-led-03.webp"
   }
  ]
 }

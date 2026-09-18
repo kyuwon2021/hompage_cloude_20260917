@@ -1,22 +1,31 @@
 {
-  "title": "르꼬끄 매장 DID",
-  "place": "르꼬끄 DID",
-  "year": "2018",
-  "tags": [
-    "디지털 사이니지",
-    "디스플레이"
-  ],
-  "summary": "리테일 공간에 어우러지는 세로형 사이니지.",
-  "cover": "assets/references/lecoq-did-15.webp",
-  "sections": [
-    {
-      "heading": "현장 소개",
-      "body": "매장 내부의 제품 진열과 동선에 맞춘 세로형 디스플레이 설치 기록입니다."
-    }
-  ],
-  "gallery": [
-    "assets/references/lecoq-did-8.webp",
-    "assets/references/lecoq-did-0.webp"
-  ],
-  "pdf": ""
+ "title": "르꼬끄 매장 DID",
+ "place": "르꼬끄 DID",
+ "year": "2018",
+ "tags": [
+  "디지털 사이니지",
+  "디스플레이"
+ ],
+ "summary": "리테일 공간에 어우러지는 세로형 사이니지.",
+ "cover": "assets/references/lecoq-did-01.webp",
+ "sections": [
+  {
+   "heading": "현장 소개",
+   "body": "매장 내부의 제품 진열과 동선에 맞춘 세로형 디스플레이 설치 기록입니다.",
+   "img": "assets/references/lecoq-did-02.webp"
+  }
+ ],
+ "gallery": [
+  "assets/references/lecoq-did-01.webp",
+  "assets/references/lecoq-did-02.webp",
+  "assets/references/lecoq-did-03.webp",
+  "assets/references/lecoq-did-04.webp",
+  "assets/references/lecoq-did-05.webp",
+  "assets/references/lecoq-did-06.webp",
+  "assets/references/lecoq-did-07.webp",
+  "assets/references/lecoq-did-08.webp",
+  "assets/references/lecoq-did-09.webp",
+  "assets/references/lecoq-did-10.webp"
+ ],
+ "pdf": ""
 }

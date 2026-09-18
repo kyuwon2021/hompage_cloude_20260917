@@ -1,30 +1,36 @@
 {
-  "title": "원바이오젠 제2공장",
-  "place": "생산시설 · 사무·공용 공간",
-  "year": "2023",
-  "tags": [
-    "삼성 DVM S2 시스템에어컨",
-    "공장·사무실 시공"
-  ],
-  "summary": "사무실과 회의실, 공용 공간의 시스템에어컨 시공.",
-  "cover": "assets/references/wonbiogen-1.webp",
-  "sections": [
-    {
-      "heading": "업무 공간별 냉난방 구성",
-      "body": "원바이오젠 제2공장 시스템에어컨 공사 자료입니다. 회의실과 사무실, 공용 공간의 천장 구조와 용도에 맞춰 실내기를 설치했습니다.",
-      "img": "assets/references/wonbiogen-2.webp"
-    },
-    {
-      "heading": "실외기 설치와 제어 구성",
-      "body": "현장 외부의 실외기 설치 공간과 실내 조작부를 함께 구성했습니다. 현장사진으로 각 공간의 설치 모습을 확인할 수 있습니다.",
-      "img": "assets/references/wonbiogen-3.webp"
-    }
-  ],
-  "gallery": [
-    "assets/references/wonbiogen-1.webp",
-    "assets/references/wonbiogen-2.webp",
-    "assets/references/wonbiogen-3.webp"
-  ],
-  "pdf": "",
-  "pdfLabel": "시공 완료보고서"
+ "title": "원바이오젠 제2공장",
+ "place": "생산시설 · 사무·공용 공간",
+ "year": "2023",
+ "tags": [
+  "삼성 DVM S2 시스템에어컨",
+  "공장·사무실 시공"
+ ],
+ "summary": "사무실과 회의실, 공용 공간의 시스템에어컨 시공.",
+ "cover": "assets/references/wonbiogen-hvac-01.webp",
+ "sections": [
+  {
+   "heading": "업무 공간별 냉난방 구성",
+   "body": "원바이오젠 제2공장 시스템에어컨 공사 자료입니다. 회의실과 사무실, 공용 공간의 천장 구조와 용도에 맞춰 실내기를 설치했습니다.",
+   "img": "assets/references/wonbiogen-hvac-04.webp"
+  },
+  {
+   "heading": "실외기 설치와 제어 구성",
+   "body": "현장 외부의 실외기 설치 공간과 실내 조작부를 함께 구성했습니다. 현장사진으로 각 공간의 설치 모습을 확인할 수 있습니다.",
+   "img": "assets/references/wonbiogen-hvac-02.webp"
+  }
+ ],
+ "gallery": [
+  "assets/references/wonbiogen-hvac-01.webp",
+  "assets/references/wonbiogen-hvac-02.webp",
+  "assets/references/wonbiogen-hvac-03.webp",
+  "assets/references/wonbiogen-hvac-04.webp",
+  "assets/references/wonbiogen-hvac-05.webp",
+  "assets/references/wonbiogen-hvac-06.webp",
+  "assets/references/wonbiogen-hvac-07.webp",
+  "assets/references/wonbiogen-hvac-08.webp",
+  "assets/references/wonbiogen-hvac-09.webp"
+ ],
+ "pdf": "",
+ "pdfLabel": "시공 완료보고서"
 }

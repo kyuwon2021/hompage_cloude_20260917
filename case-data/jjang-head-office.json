@@ -1,22 +1,25 @@
 {
-  "title": "짱게임즈 영등포 본사사무실",
-  "place": "짱오락실 · 영등포본사사무실",
-  "year": "2024",
-  "tags": [
-    "시스템에어컨",
-    "현장 설치"
-  ],
-  "summary": "업무 공간의 시스템에어컨 구성.",
-  "cover": "assets/references/jjang-head-office-2.webp",
-  "sections": [
-    {
-      "heading": "현장 소개",
-      "body": "사무실의 천장형 실내기와 입구·업무 공간을 소개합니다."
-    }
-  ],
-  "gallery": [
-    "assets/references/jjang-head-office-0.webp",
-    "assets/references/jjang-head-office-3.webp"
-  ],
-  "pdf": ""
+ "title": "짱게임즈 영등포 본사사무실",
+ "place": "짱오락실 · 영등포본사사무실",
+ "year": "2024",
+ "tags": [
+  "시스템에어컨",
+  "현장 설치"
+ ],
+ "summary": "업무 공간의 시스템에어컨 구성.",
+ "cover": "assets/references/jjang-head-office-01.webp",
+ "sections": [
+  {
+   "heading": "현장 소개",
+   "body": "사무실의 천장형 실내기와 입구·업무 공간을 소개합니다.",
+   "img": "assets/references/jjang-head-office-02.webp"
+  }
+ ],
+ "gallery": [
+  "assets/references/jjang-head-office-01.webp",
+  "assets/references/jjang-head-office-02.webp",
+  "assets/references/jjang-head-office-03.webp",
+  "assets/references/jjang-head-office-04.webp"
+ ],
+ "pdf": ""
 }

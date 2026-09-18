@@ -1,22 +1,30 @@
 {
-  "title": "짱오락실 광주몽키터미널점",
-  "place": "짱오락실 · 광주몽키터미널점",
-  "year": "2026",
-  "tags": [
-    "삼성DVM S2 시스템에어컨",
-    "중대형 스탠드에어컨 현장 설치"
-  ],
-  "summary": "대규모 매장 시스템에어컨 및 중대형 스탠드에어컨 설치환경에 따른 맞춤형 제안 시공.",
-  "cover": "assets/references/admin-jjang-gwangju-monkey-20260915.jpg",
-  "sections": [
-    {
-      "heading": "현장 소개",
-      "body": "매장 천장에 설치된 시스템에어컨과 실외기 설치 현장을 담았습니다."
-    }
-  ],
-  "gallery": [
-    "assets/references/jjang-gwangju-monkey-0.webp",
-    "assets/references/jjang-gwangju-monkey-11.webp"
-  ],
-  "pdf": ""
+ "title": "짱오락실 광주몽키터미널점",
+ "place": "짱오락실 · 광주몽키터미널점",
+ "year": "2026",
+ "tags": [
+  "삼성DVM S2 시스템에어컨",
+  "중대형 스탠드에어컨 현장 설치"
+ ],
+ "summary": "대규모 매장 시스템에어컨 및 중대형 스탠드에어컨 설치환경에 따른 맞춤형 제안 시공.",
+ "cover": "assets/references/jjang-gwangju-monkey-01.webp",
+ "sections": [
+  {
+   "heading": "현장 소개",
+   "body": "매장 천장에 설치된 시스템에어컨과 실외기 설치 현장을 담았습니다.",
+   "img": "assets/references/jjang-gwangju-monkey-02.webp"
+  }
+ ],
+ "gallery": [
+  "assets/references/jjang-gwangju-monkey-01.webp",
+  "assets/references/jjang-gwangju-monkey-02.webp",
+  "assets/references/jjang-gwangju-monkey-03.webp",
+  "assets/references/jjang-gwangju-monkey-04.webp",
+  "assets/references/jjang-gwangju-monkey-05.webp",
+  "assets/references/jjang-gwangju-monkey-06.webp",
+  "assets/references/jjang-gwangju-monkey-07.webp",
+  "assets/references/jjang-gwangju-monkey-08.webp",
+  "assets/references/jjang-gwangju-monkey-09.webp"
+ ],
+ "pdf": ""
 }

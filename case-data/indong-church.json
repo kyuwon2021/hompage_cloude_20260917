@@ -9,22 +9,29 @@
   "본당·교육관 통합 구성"
  ],
  "year": "2026",
- "cover": "assets/references/indong-church-1.webp",
+ "cover": "assets/references/indong-church-01.webp",
  "gallery": [
-  "assets/references/indong-church-1.webp",
-  "assets/references/indong-church-2.webp",
-  "assets/references/indong-church-3.webp"
+  "assets/references/indong-church-01.webp",
+  "assets/references/indong-church-02.webp",
+  "assets/references/indong-church-03.webp",
+  "assets/references/indong-church-04.webp",
+  "assets/references/indong-church-05.webp",
+  "assets/references/indong-church-06.webp",
+  "assets/references/indong-church-07.webp",
+  "assets/references/indong-church-08.webp",
+  "assets/references/indong-church-09.webp",
+  "assets/references/indong-church-10.webp"
  ],
  "sections": [
   {
    "heading": "천장 구조에 맞춘 설치 작업",
    "body": "기존 마감을 살리면서 배선과 브래킷을 정리해야 하는 현장이었습니다. 천장 구조와 전원·신호 경로를 먼저 확인한 뒤 화면 위치를 확정했습니다.",
-   "img": "assets/references/indong-church-2.webp"
+   "img": "assets/references/indong-church-02.webp"
   },
   {
    "heading": "교육관까지 이어지는 화면 구성",
    "body": "본당뿐 아니라 교육관과 부속 공간에도 같은 운영 방식으로 화면을 배치해, 어느 공간에서나 동일한 자료를 띄울 수 있도록 맞췄습니다.",
-   "img": "assets/references/indong-church-3.webp"
+   "img": "assets/references/indong-church-07.webp"
   }
  ]
 }

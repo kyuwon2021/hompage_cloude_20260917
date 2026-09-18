@@ -9,22 +9,29 @@
   "MagicINFO 운영 솔루션"
  ],
  "year": "2025",
- "cover": "assets/references/polytech-gumi-1.webp",
+ "cover": "assets/references/polytech-gumi-01.webp",
  "gallery": [
-  "assets/references/polytech-gumi-1.webp",
-  "assets/references/polytech-gumi-2.webp",
-  "assets/references/polytech-gumi-3.webp"
+  "assets/references/polytech-gumi-01.webp",
+  "assets/references/polytech-gumi-02.webp",
+  "assets/references/polytech-gumi-03.webp",
+  "assets/references/polytech-gumi-04.webp",
+  "assets/references/polytech-gumi-05.webp",
+  "assets/references/polytech-gumi-06.webp",
+  "assets/references/polytech-gumi-07.webp",
+  "assets/references/polytech-gumi-08.webp",
+  "assets/references/polytech-gumi-09.webp",
+  "assets/references/polytech-gumi-10.webp"
  ],
  "sections": [
   {
    "heading": "공간 성격에 맞춘 화면 배치",
    "body": "로비는 세로형, 복도는 가로형으로 나눠 이동 동선에서 자연스럽게 읽히도록 배치했습니다. 벽면 마감과 조명 조건을 반영해 설치 위치를 정했습니다.",
-   "img": "assets/references/polytech-gumi-2.webp"
+   "img": "assets/references/polytech-gumi-05.webp"
   },
   {
    "heading": "한 곳에서 관리하는 콘텐츠",
    "body": "여러 대의 화면을 개별로 다루면 운영 부담이 큽니다. 운영 솔루션을 함께 구성해 담당자가 한 화면에서 편성과 배포를 관리하도록 했습니다.",
-   "img": "assets/references/polytech-gumi-3.webp"
+   "img": "assets/references/polytech-gumi-10.webp"
   }
  ]
 }

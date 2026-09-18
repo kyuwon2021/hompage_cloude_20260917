@@ -1,22 +1,25 @@
 {
-  "title": "00필라테스 시스템에어컨",
-  "place": "00필라테스 · 싱글시스템에어컨",
-  "year": "2026",
-  "tags": [
-    "시스템에어컨",
-    "현장 설치"
-  ],
-  "summary": "운동 공간의 천장형 시스템에어컨 설치.",
-  "cover": "assets/references/jeong-yoga-2.webp",
-  "sections": [
-    {
-      "heading": "현장 소개",
-      "body": "노출 천장에 설치된 실내기와 옥외 실외기 배치를 함께 확인할 수 있습니다."
-    }
-  ],
-  "gallery": [
-    "assets/references/jeong-yoga-0.webp",
-    "assets/references/jeong-yoga-3.webp"
-  ],
-  "pdf": ""
+ "title": "00필라테스 시스템에어컨",
+ "place": "00필라테스 · 싱글시스템에어컨",
+ "year": "2026",
+ "tags": [
+  "시스템에어컨",
+  "현장 설치"
+ ],
+ "summary": "운동 공간의 천장형 시스템에어컨 설치.",
+ "cover": "assets/references/pilates-01.webp",
+ "sections": [
+  {
+   "heading": "현장 소개",
+   "body": "노출 천장에 설치된 실내기와 옥외 실외기 배치를 함께 확인할 수 있습니다.",
+   "img": "assets/references/pilates-02.webp"
+  }
+ ],
+ "gallery": [
+  "assets/references/pilates-01.webp",
+  "assets/references/pilates-02.webp",
+  "assets/references/pilates-03.webp",
+  "assets/references/pilates-04.webp"
+ ],
+ "pdf": ""
 }

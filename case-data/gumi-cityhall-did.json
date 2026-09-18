@@ -1,21 +1,31 @@
 {
-  "title": "구미시청 DID",
-  "place": "구미시청 DID",
-  "year": "2016",
-  "tags": [
-    "디지털 사이니지",
-    "디스플레이"
-  ],
-  "summary": "시청 공용 공간의 디지털 안내 구성.",
-  "cover": "assets/references/admin-gumi-cityhall-did-20260915.jpg",
-  "sections": [
-    {
-      "heading": "현장 소개",
-      "body": "안내 디스플레이를 벽면 공간에 설치한 현장과 설치 준비 과정을 소개합니다."
-    }
-  ],
-  "gallery": [
-    "assets/references/gumi-cityhall-did-0.webp"
-  ],
-  "pdf": ""
+ "title": "구미시청 DID",
+ "place": "구미시청 DID",
+ "year": "2016",
+ "tags": [
+  "디지털 사이니지",
+  "디스플레이"
+ ],
+ "summary": "시청 공용 공간의 디지털 안내 구성.",
+ "cover": "assets/references/gumi-cityhall-did-01.webp",
+ "sections": [
+  {
+   "heading": "현장 소개",
+   "body": "안내 디스플레이를 벽면 공간에 설치한 현장과 설치 준비 과정을 소개합니다.",
+   "img": "assets/references/gumi-cityhall-did-02.webp"
+  }
+ ],
+ "gallery": [
+  "assets/references/gumi-cityhall-did-01.webp",
+  "assets/references/gumi-cityhall-did-02.webp",
+  "assets/references/gumi-cityhall-did-03.webp",
+  "assets/references/gumi-cityhall-did-04.webp",
+  "assets/references/gumi-cityhall-did-05.webp",
+  "assets/references/gumi-cityhall-did-06.webp",
+  "assets/references/gumi-cityhall-did-07.webp",
+  "assets/references/gumi-cityhall-did-08.webp",
+  "assets/references/gumi-cityhall-did-09.webp",
+  "assets/references/gumi-cityhall-did-10.webp"
+ ],
+ "pdf": ""
 }

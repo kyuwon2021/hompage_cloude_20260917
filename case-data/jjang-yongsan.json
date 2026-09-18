@@ -1,22 +1,26 @@
 {
-  "title": "짱오락실 용산아이파크몰점",
-  "place": "짱오락실 · 용산아이파크몰점",
-  "year": "2026",
-  "tags": [
-    "삼성DVM S2시스템에어컨",
-    "360CST 현장 설치"
-  ],
-  "summary": "용산아이파크 쇼핑몰 내 시스템에어컨 시공.",
-  "cover": "assets/references/admin-jjang-yongsan-20260915.jpg",
-  "sections": [
-    {
-      "heading": "현장 소개",
-      "body": "천장형 실내기 설치와 현장 장비 반입 작업 기록을 담았습니다."
-    }
-  ],
-  "gallery": [
-    "assets/references/jjang-yongsan-0.webp",
-    "assets/references/jjang-yongsan-4.webp"
-  ],
-  "pdf": ""
+ "title": "짱오락실 용산아이파크몰점",
+ "place": "짱오락실 · 용산아이파크몰점",
+ "year": "2026",
+ "tags": [
+  "삼성DVM S2시스템에어컨",
+  "360CST 현장 설치"
+ ],
+ "summary": "용산아이파크 쇼핑몰 내 시스템에어컨 시공.",
+ "cover": "assets/references/jjang-yongsan-01.webp",
+ "sections": [
+  {
+   "heading": "현장 소개",
+   "body": "천장형 실내기 설치와 현장 장비 반입 작업 기록을 담았습니다.",
+   "img": "assets/references/jjang-yongsan-02.webp"
+  }
+ ],
+ "gallery": [
+  "assets/references/jjang-yongsan-01.webp",
+  "assets/references/jjang-yongsan-02.webp",
+  "assets/references/jjang-yongsan-03.webp",
+  "assets/references/jjang-yongsan-04.webp",
+  "assets/references/jjang-yongsan-05.webp"
+ ],
+ "pdf": ""
 }

@@ -9,22 +9,24 @@
   "주방·생활 가전"
  ],
  "year": "2021",
- "cover": "assets/references/joa-care-1.webp",
+ "cover": "assets/references/joa-care-01.webp",
  "gallery": [
-  "assets/references/joa-care-1.webp",
-  "assets/references/joa-care-2.webp",
-  "assets/references/joa-care-3.webp"
+  "assets/references/joa-care-01.webp",
+  "assets/references/joa-care-02.webp",
+  "assets/references/joa-care-03.webp",
+  "assets/references/joa-care-04.webp",
+  "assets/references/joa-care-05.webp"
  ],
  "sections": [
   {
    "heading": "공용 공간 대형 TV 설치",
    "body": "휠체어 이용과 좌석 배치를 고려해 화면 높이를 낮춰 설치했습니다. 배선은 노출되지 않도록 벽체 안으로 정리했습니다.",
-   "img": "assets/references/joa-care-2.webp"
+   "img": "assets/references/joa-care-02.webp"
   },
   {
    "heading": "주방·생활 가전 구성",
    "body": "냉장고를 비롯한 생활 가전은 동선과 문 열림 방향을 확인한 뒤 자리를 정해 설치했습니다.",
-   "img": "assets/references/joa-care-3.webp"
+   "img": "assets/references/joa-care-03.webp"
   }
  ]
 }

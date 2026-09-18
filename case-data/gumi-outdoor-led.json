@@ -1,29 +1,35 @@
 {
-  "title": "구미시 옥외 전광판",
-  "place": "공공시설 · 옥외 안내",
-  "year": "2017",
-  "tags": [
-    "옥외 LED",
-    "공공 안내"
-  ],
-  "summary": "공공 정보와 행사 소식을 전달하는 옥외 LED 전광판.",
-  "cover": "assets/references/gumi-led-1.webp",
-  "sections": [
-    {
-      "heading": "도시의 정보를 전하는 화면",
-      "body": "구미시 전광판 레퍼런스에 보관된 옥외 LED 운영 사진입니다. 건물 상부에 설치된 대형 화면으로 공공 정보와 행사 소식을 전달합니다.",
-      "img": "assets/references/gumi-led-2.webp"
-    },
-    {
-      "heading": "설치 환경을 고려한 제안",
-      "body": "옥외 전광판은 설치 위치, 시청 거리, 주변 밝기와 구조 조건을 함께 검토해야 합니다. 유승은 현장 조건을 바탕으로 화면 구성을 제안합니다.",
-      "img": "assets/references/gumi-led-2.webp"
-    }
-  ],
-  "gallery": [
-    "assets/references/gumi-led-1.webp",
-    "assets/references/gumi-led-2.webp"
-  ],
-  "pdf": "",
-  "pdfLabel": "시공 완료보고서"
+ "title": "구미시 옥외 전광판",
+ "place": "공공시설 · 옥외 안내",
+ "year": "2017",
+ "tags": [
+  "옥외 LED",
+  "공공 안내"
+ ],
+ "summary": "공공 정보와 행사 소식을 전달하는 옥외 LED 전광판.",
+ "cover": "assets/references/gumi-outdoor-led-01.webp",
+ "sections": [
+  {
+   "heading": "도시의 정보를 전하는 화면",
+   "body": "구미시 전광판 레퍼런스에 보관된 옥외 LED 운영 사진입니다. 건물 상부에 설치된 대형 화면으로 공공 정보와 행사 소식을 전달합니다.",
+   "img": "assets/references/gumi-outdoor-led-04.webp"
+  },
+  {
+   "heading": "설치 환경을 고려한 제안",
+   "body": "옥외 전광판은 설치 위치, 시청 거리, 주변 밝기와 구조 조건을 함께 검토해야 합니다. 유승은 현장 조건을 바탕으로 화면 구성을 제안합니다.",
+   "img": "assets/references/gumi-outdoor-led-07.webp"
+  }
+ ],
+ "gallery": [
+  "assets/references/gumi-outdoor-led-01.webp",
+  "assets/references/gumi-outdoor-led-02.webp",
+  "assets/references/gumi-outdoor-led-03.webp",
+  "assets/references/gumi-outdoor-led-04.webp",
+  "assets/references/gumi-outdoor-led-05.webp",
+  "assets/references/gumi-outdoor-led-06.webp",
+  "assets/references/gumi-outdoor-led-07.webp",
+  "assets/references/gumi-outdoor-led-08.webp"
+ ],
+ "pdf": "",
+ "pdfLabel": "시공 완료보고서"
 }

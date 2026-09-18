@@ -1,19 +1,31 @@
 {
-  "title": "짱오락실 부평2호점",
-  "place": "짱오락실 · 부평2호점",
-  "year": "2025",
-  "tags": [
-    "삼성DVM S2 시스템에어컨",
-    "현장 설치"
-  ],
-  "summary": "부평로데오점 시스템에어컨 프로젝트 현장 기록.",
-  "cover": "assets/references/jjang-bupyeong-0.webp",
-  "sections": [
-    {
-      "heading": "현장 소개",
-      "body": "제공된 자료에는 매장 외관 사진이 포함되어 있습니다. 이 페이지는 해당 프로젝트의 현장 전경을 소개합니다."
-    }
-  ],
-  "gallery": [],
-  "pdf": ""
+ "title": "짱오락실 부평2호점",
+ "place": "짱오락실 · 부평2호점",
+ "year": "2025",
+ "tags": [
+  "삼성DVM S2 시스템에어컨",
+  "현장 설치"
+ ],
+ "summary": "부평로데오점 시스템에어컨 프로젝트 현장 기록.",
+ "cover": "assets/references/jjang-bupyeong-01.webp",
+ "sections": [
+  {
+   "heading": "현장 소개",
+   "body": "제공된 자료에는 매장 외관 사진이 포함되어 있습니다. 이 페이지는 해당 프로젝트의 현장 전경을 소개합니다.",
+   "img": "assets/references/jjang-bupyeong-02.webp"
+  }
+ ],
+ "gallery": [
+  "assets/references/jjang-bupyeong-01.webp",
+  "assets/references/jjang-bupyeong-02.webp",
+  "assets/references/jjang-bupyeong-03.webp",
+  "assets/references/jjang-bupyeong-04.webp",
+  "assets/references/jjang-bupyeong-05.webp",
+  "assets/references/jjang-bupyeong-06.webp",
+  "assets/references/jjang-bupyeong-07.webp",
+  "assets/references/jjang-bupyeong-08.webp",
+  "assets/references/jjang-bupyeong-09.webp",
+  "assets/references/jjang-bupyeong-10.webp"
+ ],
+ "pdf": ""
 }

@@ -1,22 +1,31 @@
 {
-  "title": "짱오락실 대구스파크점",
-  "place": "짱오락실 · 대구스파크점",
-  "year": "2025",
-  "tags": [
-    "삼성 DVM S2 시스템에어컨",
-    "현장 설치"
-  ],
-  "summary": "대구 스파크 복합 쇼핑몰 상업시설 내 게임 매장 냉난방.",
-  "cover": "assets/references/jjang-daegu-7.webp",
-  "sections": [
-    {
-      "heading": "현장 소개",
-      "body": "매장 내부의 천장형 실내기와 입점 공간의 전경입니다."
-    }
-  ],
-  "gallery": [
-    "assets/references/jjang-daegu-0.webp",
-    "assets/references/jjang-daegu-14.webp"
-  ],
-  "pdf": ""
+ "title": "짱오락실 대구스파크점",
+ "place": "짱오락실 · 대구스파크점",
+ "year": "2025",
+ "tags": [
+  "삼성 DVM S2 시스템에어컨",
+  "현장 설치"
+ ],
+ "summary": "대구 스파크 복합 쇼핑몰 상업시설 내 게임 매장 냉난방.",
+ "cover": "assets/references/jjang-daegu-01.webp",
+ "sections": [
+  {
+   "heading": "현장 소개",
+   "body": "매장 내부의 천장형 실내기와 입점 공간의 전경입니다.",
+   "img": "assets/references/jjang-daegu-02.webp"
+  }
+ ],
+ "gallery": [
+  "assets/references/jjang-daegu-01.webp",
+  "assets/references/jjang-daegu-02.webp",
+  "assets/references/jjang-daegu-03.webp",
+  "assets/references/jjang-daegu-04.webp",
+  "assets/references/jjang-daegu-05.webp",
+  "assets/references/jjang-daegu-06.webp",
+  "assets/references/jjang-daegu-07.webp",
+  "assets/references/jjang-daegu-08.webp",
+  "assets/references/jjang-daegu-09.webp",
+  "assets/references/jjang-daegu-10.webp"
+ ],
+ "pdf": ""
 }

@@ -9,22 +9,27 @@
   "멀티 화면 분할"
  ],
  "year": "2023",
- "cover": "assets/references/posco-ict-pangyo-1.webp",
+ "cover": "assets/references/posco-ict-pangyo-01.webp",
  "gallery": [
-  "assets/references/posco-ict-pangyo-1.webp",
-  "assets/references/posco-ict-pangyo-2.webp",
-  "assets/references/posco-ict-pangyo-3.webp"
+  "assets/references/posco-ict-pangyo-01.webp",
+  "assets/references/posco-ict-pangyo-02.webp",
+  "assets/references/posco-ict-pangyo-03.webp",
+  "assets/references/posco-ict-pangyo-04.webp",
+  "assets/references/posco-ict-pangyo-05.webp",
+  "assets/references/posco-ict-pangyo-06.webp",
+  "assets/references/posco-ict-pangyo-07.webp",
+  "assets/references/posco-ict-pangyo-08.webp"
  ],
  "sections": [
   {
    "heading": "모듈 단위로 맞춰가는 시공",
    "body": "LED는 모듈을 하나씩 붙여 하나의 면을 만드는 방식입니다. 평탄도와 이음매를 맞추는 작업이 화면 품질을 좌우합니다.",
-   "img": "assets/references/posco-ict-pangyo-2.webp"
+   "img": "assets/references/posco-ict-pangyo-04.webp"
   },
   {
    "heading": "여러 자료를 동시에 띄우는 운용",
    "body": "전체 화면과 분할 화면을 상황에 맞게 전환할 수 있도록 구성해, 회의 성격에 따라 화면 구성을 바꿔 쓸 수 있습니다.",
-   "img": "assets/references/posco-ict-pangyo-3.webp"
+   "img": "assets/references/posco-ict-pangyo-05.webp"
   }
  ]
 }

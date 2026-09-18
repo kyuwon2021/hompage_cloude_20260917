@@ -1,32 +1,38 @@
 {
-  "title": "호텔제이스 객실 솔루션",
-  "place": "숙박시설 · 객실·로비",
-  "year": "2019",
-  "tags": [
-    "객실 TV",
-    "시스템에어컨",
-    "호텔 가전",
-    "사이니지 납품"
-  ],
-  "summary": "객실 TV와 냉난방, 공용 공간 가전 납품 사례.",
-  "cover": "assets/references/hotel-jace-1.webp",
-  "sections": [
-    {
-      "heading": "머무는 공간의 편의",
-      "body": "호텔제이스 납품 자료에는 객실 TV와 천장형 냉난방, 로비 및 가전 구성이 담겨 있습니다. 객실과 공용 공간에 필요한 제품을 함께 구성한 사례입니다.",
-      "img": "assets/references/hotel-jace-2.webp"
-    },
-    {
-      "heading": "객실부터 공용 공간까지",
-      "body": "객실의 벽걸이 TV 설치 모습과 로비 구성을 현장사진으로 확인할 수 있습니다. 현재 도입 제품은 현장 조건과 예산에 맞춰 별도로 제안합니다.",
-      "img": "assets/references/hotel-jace-3.webp"
-    }
-  ],
-  "gallery": [
-    "assets/references/hotel-jace-1.webp",
-    "assets/references/hotel-jace-2.webp",
-    "assets/references/hotel-jace-3.webp"
-  ],
-  "pdf": "",
-  "pdfLabel": "시공 완료보고서"
+ "title": "호텔제이스 객실 솔루션",
+ "place": "숙박시설 · 객실·로비",
+ "year": "2019",
+ "tags": [
+  "객실 TV",
+  "시스템에어컨",
+  "호텔 가전",
+  "사이니지 납품"
+ ],
+ "summary": "객실 TV와 냉난방, 공용 공간 가전 납품 사례.",
+ "cover": "assets/references/hotel-jace-01.webp",
+ "sections": [
+  {
+   "heading": "머무는 공간의 편의",
+   "body": "호텔제이스 납품 자료에는 객실 TV와 천장형 냉난방, 로비 및 가전 구성이 담겨 있습니다. 객실과 공용 공간에 필요한 제품을 함께 구성한 사례입니다.",
+   "img": "assets/references/hotel-jace-02.webp"
+  },
+  {
+   "heading": "객실부터 공용 공간까지",
+   "body": "객실의 벽걸이 TV 설치 모습과 로비 구성을 현장사진으로 확인할 수 있습니다. 현재 도입 제품은 현장 조건과 예산에 맞춰 별도로 제안합니다.",
+   "img": "assets/references/hotel-jace-05.webp"
+  }
+ ],
+ "gallery": [
+  "assets/references/hotel-jace-01.webp",
+  "assets/references/hotel-jace-02.webp",
+  "assets/references/hotel-jace-03.webp",
+  "assets/references/hotel-jace-04.webp",
+  "assets/references/hotel-jace-05.webp",
+  "assets/references/hotel-jace-06.webp",
+  "assets/references/hotel-jace-07.webp",
+  "assets/references/hotel-jace-08.webp",
+  "assets/references/hotel-jace-09.webp"
+ ],
+ "pdf": "",
+ "pdfLabel": "시공 완료보고서"
 }

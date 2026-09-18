@@ -9,22 +9,29 @@
   "대회의실"
  ],
  "year": "2021",
- "cover": "assets/references/hrdk-led-1.webp",
+ "cover": "assets/references/hrdk-led-01.webp",
  "gallery": [
-  "assets/references/hrdk-led-1.webp",
-  "assets/references/hrdk-led-2.webp",
-  "assets/references/hrdk-led-3.webp"
+  "assets/references/hrdk-led-01.webp",
+  "assets/references/hrdk-led-02.webp",
+  "assets/references/hrdk-led-03.webp",
+  "assets/references/hrdk-led-04.webp",
+  "assets/references/hrdk-led-05.webp",
+  "assets/references/hrdk-led-06.webp",
+  "assets/references/hrdk-led-07.webp",
+  "assets/references/hrdk-led-08.webp",
+  "assets/references/hrdk-led-09.webp",
+  "assets/references/hrdk-led-10.webp"
  ],
  "sections": [
   {
    "heading": "기존 마감을 살린 설치",
    "body": "벽체 구조와 기존 목재 마감을 최대한 유지하면서 프레임과 배선을 정리했습니다. 유지보수를 위한 접근 경로도 함께 확보했습니다.",
-   "img": "assets/references/hrdk-led-2.webp"
+   "img": "assets/references/hrdk-led-02.webp"
   },
   {
    "heading": "영상까지 소화하는 화질",
    "body": "문서 위주 자료뿐 아니라 고화질 영상 재생까지 감안해 밝기와 색 균형을 잡았습니다.",
-   "img": "assets/references/hrdk-led-3.webp"
+   "img": "assets/references/hrdk-led-03.webp"
   }
  ]
 }

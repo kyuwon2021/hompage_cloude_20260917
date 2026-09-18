@@ -1,19 +1,31 @@
 {
-  "title": "구미시 정수장 상황실",
-  "place": "구미시 정수장상황실",
-  "year": "2018",
-  "tags": [
-    "디지털 사이니지",
-    "디스플레이"
-  ],
-  "summary": "상황실 비디오월 디스플레이 설치·연결 작업.",
-  "cover": "assets/references/admin-gumi-water-control-20260915.jpg",
-  "sections": [
-    {
-      "heading": "현장 소개",
-      "body": "상황실 디스플레이의 후면 장비와 연결 작업을 기록했습니다. 운영 화면의 상세 정보는 공개 사진에서 제외했습니다."
-    }
-  ],
-  "gallery": [],
-  "pdf": ""
+ "title": "구미시 정수장 상황실",
+ "place": "구미시 정수장상황실",
+ "year": "2018",
+ "tags": [
+  "디지털 사이니지",
+  "디스플레이"
+ ],
+ "summary": "상황실 비디오월 디스플레이 설치·연결 작업.",
+ "cover": "assets/references/gumi-water-control-01.webp",
+ "sections": [
+  {
+   "heading": "현장 소개",
+   "body": "상황실 디스플레이의 후면 장비와 연결 작업을 기록했습니다. 운영 화면의 상세 정보는 공개 사진에서 제외했습니다.",
+   "img": "assets/references/gumi-water-control-02.webp"
+  }
+ ],
+ "gallery": [
+  "assets/references/gumi-water-control-01.webp",
+  "assets/references/gumi-water-control-02.webp",
+  "assets/references/gumi-water-control-03.webp",
+  "assets/references/gumi-water-control-04.webp",
+  "assets/references/gumi-water-control-05.webp",
+  "assets/references/gumi-water-control-06.webp",
+  "assets/references/gumi-water-control-07.webp",
+  "assets/references/gumi-water-control-08.webp",
+  "assets/references/gumi-water-control-09.webp",
+  "assets/references/gumi-water-control-10.webp"
+ ],
+ "pdf": ""
 }
