@@ -1,0 +1,30 @@
+{
+ "summary": "하나의 LED 화면을 여러 영역으로 나눠 동시에 여러 자료를 띄울 수 있도록 구성한 회의실 전광판 현장입니다.",
+ "pdf": "",
+ "pdfLabel": "시공 완료보고서",
+ "title": "포스코ICT 판교 LED 전광판",
+ "place": "경기 성남 판교 · 회의 공간",
+ "tags": [
+  "실내용 LED",
+  "멀티 화면 분할"
+ ],
+ "year": "2023",
+ "cover": "assets/references/posco-ict-pangyo-1.webp",
+ "gallery": [
+  "assets/references/posco-ict-pangyo-1.webp",
+  "assets/references/posco-ict-pangyo-2.webp",
+  "assets/references/posco-ict-pangyo-3.webp"
+ ],
+ "sections": [
+  {
+   "heading": "모듈 단위로 맞춰가는 시공",
+   "body": "LED는 모듈을 하나씩 붙여 하나의 면을 만드는 방식입니다. 평탄도와 이음매를 맞추는 작업이 화면 품질을 좌우합니다.",
+   "img": "assets/references/posco-ict-pangyo-2.webp"
+  },
+  {
+   "heading": "여러 자료를 동시에 띄우는 운용",
+   "body": "전체 화면과 분할 화면을 상황에 맞게 전환할 수 있도록 구성해, 회의 성격에 따라 화면 구성을 바꿔 쓸 수 있습니다.",
+   "img": "assets/references/posco-ict-pangyo-3.webp"
+  }
+ ]
+}

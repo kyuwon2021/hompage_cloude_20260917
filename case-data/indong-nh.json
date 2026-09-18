@@ -1,0 +1,30 @@
+{
+ "summary": "고객 대기 공간과 직원 업무 공간의 온도 편차를 줄이고, 환기까지 함께 설계한 금융 지점 현장입니다.",
+ "pdf": "",
+ "pdfLabel": "시공 완료보고서",
+ "title": "인동농협 동부지점 냉난방·환기",
+ "place": "경북 구미 · 금융 지점",
+ "tags": [
+  "시스템에어컨",
+  "환기 시스템"
+ ],
+ "year": "2020",
+ "cover": "assets/references/indong-nh-1.webp",
+ "gallery": [
+  "assets/references/indong-nh-1.webp",
+  "assets/references/indong-nh-2.webp",
+  "assets/references/indong-nh-3.webp"
+ ],
+ "sections": [
+  {
+   "heading": "옥상 실외기 구성",
+   "body": "건물 옥상에 DVM 실외기를 배치하고, 배관 경로와 하중을 검토해 설치했습니다. 소음이 인접 공간에 전달되지 않도록 위치를 잡았습니다.",
+   "img": "assets/references/indong-nh-2.webp"
+  },
+  {
+   "heading": "구역별로 나눈 조작부",
+   "body": "영업장과 사무실, 회의실을 각각 따로 제어할 수 있도록 조작부를 나눴습니다. 환기 시스템도 같은 방식으로 구역별 운전이 가능합니다.",
+   "img": "assets/references/indong-nh-3.webp"
+  }
+ ]
+}

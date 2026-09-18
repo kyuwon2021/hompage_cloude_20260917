@@ -1,0 +1,30 @@
+{
+ "summary": "회의 테이블 전 좌석에서 문서와 도면이 또렷하게 읽히도록 화면 크기와 픽셀 피치를 맞춘 임원회의실 LED 현장입니다.",
+ "pdf": "",
+ "pdfLabel": "시공 완료보고서",
+ "title": "현대엔지니어링 임원회의실 LED",
+ "place": "서울 · 임원 회의 공간",
+ "tags": [
+  "실내용 LED 전광판",
+  "임원회의실"
+ ],
+ "year": "2024",
+ "cover": "assets/references/hyundai-eng-led-1.webp",
+ "gallery": [
+  "assets/references/hyundai-eng-led-1.webp",
+  "assets/references/hyundai-eng-led-2.webp",
+  "assets/references/hyundai-eng-led-3.webp"
+ ],
+ "sections": [
+  {
+   "heading": "회의 거리에 맞춘 화면 설계",
+   "body": "가장 가까운 좌석과 가장 먼 좌석의 시야 거리를 함께 고려해 화면 크기와 설치 높이를 정했습니다. 조명 반사도 함께 검토했습니다.",
+   "img": "assets/references/hyundai-eng-led-2.webp"
+  },
+  {
+   "heading": "문서와 영상을 함께 다루는 화면",
+   "body": "브라우저 화면과 도면, 영상 자료를 그대로 띄워도 글자가 뭉개지지 않도록 해상도와 밝기를 조정해 마무리했습니다.",
+   "img": "assets/references/hyundai-eng-led-3.webp"
+  }
+ ]
+}

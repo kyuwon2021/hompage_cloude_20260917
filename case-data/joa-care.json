@@ -1,0 +1,30 @@
+{
+ "summary": "입소자 공용 공간과 주방에 필요한 가전을 한 번에 구성해 납품·설치한 현장입니다.",
+ "pdf": "",
+ "pdfLabel": "시공 완료보고서",
+ "title": "조아요양원 가전제품 납품",
+ "place": "요양 시설 · 생활 공간",
+ "tags": [
+  "대형 TV",
+  "주방·생활 가전"
+ ],
+ "year": "2021",
+ "cover": "assets/references/joa-care-1.webp",
+ "gallery": [
+  "assets/references/joa-care-1.webp",
+  "assets/references/joa-care-2.webp",
+  "assets/references/joa-care-3.webp"
+ ],
+ "sections": [
+  {
+   "heading": "공용 공간 대형 TV 설치",
+   "body": "휠체어 이용과 좌석 배치를 고려해 화면 높이를 낮춰 설치했습니다. 배선은 노출되지 않도록 벽체 안으로 정리했습니다.",
+   "img": "assets/references/joa-care-2.webp"
+  },
+  {
+   "heading": "주방·생활 가전 구성",
+   "body": "냉장고를 비롯한 생활 가전은 동선과 문 열림 방향을 확인한 뒤 자리를 정해 설치했습니다.",
+   "img": "assets/references/joa-care-3.webp"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "summary": "기존 회의실 마감을 유지한 채 전면을 LED 화면으로 교체해, 좌석 어디에서도 자료가 읽히도록 구성했습니다.",
+ "pdf": "",
+ "pdfLabel": "시공 완료보고서",
+ "title": "한국산업인력공단 LED 전광판",
+ "place": "대회의실 · 공공 기관",
+ "tags": [
+  "실내용 LED 전광판",
+  "대회의실"
+ ],
+ "year": "2021",
+ "cover": "assets/references/hrdk-led-1.webp",
+ "gallery": [
+  "assets/references/hrdk-led-1.webp",
+  "assets/references/hrdk-led-2.webp",
+  "assets/references/hrdk-led-3.webp"
+ ],
+ "sections": [
+  {
+   "heading": "기존 마감을 살린 설치",
+   "body": "벽체 구조와 기존 목재 마감을 최대한 유지하면서 프레임과 배선을 정리했습니다. 유지보수를 위한 접근 경로도 함께 확보했습니다.",
+   "img": "assets/references/hrdk-led-2.webp"
+  },
+  {
+   "heading": "영상까지 소화하는 화질",
+   "body": "문서 위주 자료뿐 아니라 고화질 영상 재생까지 감안해 밝기와 색 균형을 잡았습니다.",
+   "img": "assets/references/hrdk-led-3.webp"
+  }
+ ]
+}

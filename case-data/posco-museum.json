@@ -1,0 +1,30 @@
+{
+ "summary": "전시 동선의 중심에서 아카이브 영상을 상영하는 비디오월을 구축한 현장입니다.",
+ "pdf": "",
+ "pdfLabel": "시공 완료보고서",
+ "title": "포스코역사관 비디오월",
+ "place": "경북 포항 · 전시 공간",
+ "tags": [
+  "비디오월",
+  "전시 연출"
+ ],
+ "year": "2018",
+ "cover": "assets/references/posco-museum-1.webp",
+ "gallery": [
+  "assets/references/posco-museum-1.webp",
+  "assets/references/posco-museum-2.webp",
+  "assets/references/posco-museum-3.webp"
+ ],
+ "sections": [
+  {
+   "heading": "전시 구조에 맞춘 프레임 작업",
+   "body": "전시 벽체 안쪽에 프레임을 짜 넣어 화면이 벽면과 이어지도록 마감했습니다. 관람 동선을 방해하지 않는 구조가 중요했습니다.",
+   "img": "assets/references/posco-museum-2.webp"
+  },
+  {
+   "heading": "아카이브 영상 상영 환경",
+   "body": "전시 조명 아래에서도 흑백 아카이브 영상이 뭉개지지 않도록 밝기와 명암을 조정했습니다.",
+   "img": "assets/references/posco-museum-3.webp"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "summary": "넓은 개방형 사무 공간의 냉난방 편차를 줄이기 위해 천장형 실내기를 균등 배치하고 DVM S2 실외기로 묶은 현장입니다.",
+ "pdf": "",
+ "pdfLabel": "시공 완료보고서",
+ "title": "아시아나테크 시스템에어컨",
+ "place": "경북 · 생산·사무 공간",
+ "tags": [
+  "시스템에어컨",
+  "DVM S2 실외기"
+ ],
+ "year": "2025",
+ "cover": "assets/references/asiana-tech-1.webp",
+ "gallery": [
+  "assets/references/asiana-tech-1.webp",
+  "assets/references/asiana-tech-2.webp",
+  "assets/references/asiana-tech-3.webp"
+ ],
+ "sections": [
+  {
+   "heading": "운영 중 공간을 고려한 설치",
+   "body": "집기와 설비를 그대로 둔 채 진행해야 하는 현장이라 구역을 나눠 순차로 작업했습니다. 천장 마감과 조명 배치에 맞춰 실내기 위치를 잡았습니다.",
+   "img": "assets/references/asiana-tech-2.webp"
+  },
+  {
+   "heading": "옥외 실외기 설치",
+   "body": "실외기는 하중과 소음, 유지보수 동선을 함께 검토해 자리를 정합니다. 배관 경로와 방진 처리까지 포함해 시공했습니다.",
+   "img": "assets/references/asiana-tech-3.webp"
+  }
+ ]
+}
