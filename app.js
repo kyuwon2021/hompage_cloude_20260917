@@ -52,7 +52,7 @@ hvac:{en:'SYSTEM AIR CONDITIONER',body:'공간의 규모와 용도, 냉난방 �
 led:{en:'LED SIGNAGE',body:'로비, 쇼룸, 상업 공간의 시선을 모으는 대형 디스플레이. 설치 위치와 시청 거리에 맞춰 화면 크기와 구성을 제안합니다.',items:['The Wall IWC 시리즈','올인원 IAC / IEA','공간 맞춤 설치 및 콘텐츠 운영 상담']},
 lcd:{en:'LCD SIGNAGE & VIDEO WALL',body:'매장의 안내 화면부터 여러 화면을 연결한 비디오월까지. 설치 환경과 운영 목적에 적합한 사이니지를 구성합니다.',items:['단독형 디지털 사이니지','멀티 디스플레이 비디오월','인도어 / 아웃도어 환경 상담']},
 tv:{en:'BUSINESS DISPLAY',body:'호텔 객실과 비즈니스 공간에 어울리는 디스플레이를 제안합니다. 화면 크기와 설치 조건, 운영 방식에 따라 적합한 제품을 상담하세요.',items:['마이크로 RGB TV 도입 상담','호텔 TV / 비즈니스 TV','객실 및 사업장 일괄 납품 상담']},
-mobile:{en:'MOBILE FOR BUSINESS',body:'기업과 임직원을 위한 모바일 제품 도입을 지원합니다. 필요한 수량과 사용 목적에 맞춰 제품과 공급 조건을 상담해 드립니다.',items:['갤럭시 스마트폰','태블릿 및 웨어러블','임직원 단체 특판 상담']},
+mobile:{en:'MOBILE FOR BUSINESS',body:'제휴기업 임직원과 가족에게 전용 추가지원금을 드립니다. 접속코드를 입력하면 우리 회사 전용 금액과 월 납부금을 바로 확인할 수 있습니다.',items:['접속코드로 전용 금액 확인','휴대폰·요금제 선택 후 간편신청','기업 방문 특판 행사 상담']},
 solution:{en:'SAMSUNG VXT · CLOUD CMS',body:'여러 공간의 디스플레이와 콘텐츠를 효율적으로 관리하세요. 운영 환경에 맞는 콘텐츠 관리 구성을 함께 설계합니다.',items:['VXT Canvas 콘텐츠 제작','디바이스 통합 운영','콘텐츠 배포 및 운영 안내']}};
 let data=window.YTS_CONTENT;
 async function loadData(){if(location.protocol!=='file:'){try{const r=await fetch('content.json',{cache:'no-store'});if(r.ok){const j=await r.json();data={...data,...j,config:{...data.config,...j.config}};}}catch{console.warn('기본 콘텐츠로 표시합니다.');}}}
