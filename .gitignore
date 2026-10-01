@@ -35,3 +35,9 @@
 !/assets/references/admin-*.jpg
 !/assets/references/admin-*.png
 !/assets/references/admin-*.webp
+
+!/favicon.ico
+!/manifest.json
+!/assets/icons/
+/assets/icons/*
+!/assets/icons/*.png
