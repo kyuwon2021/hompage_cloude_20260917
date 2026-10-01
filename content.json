@@ -56,8 +56,8 @@
       "image": "assets/hero/mobile.webp",
       "alt": "SK텔레콤 임직원 특별 상담 부스 콘셉트",
       "label": "SKT 임직원 특판",
-      "link": "#mobile",
-      "cta": "행사 안내 보기",
+      "link": "https://skt.jb2b.co.kr",
+      "cta": "임직원 혜택 바로가기 ↗",
       "position": "center",
       "mobilePosition": "77% center"
     },
