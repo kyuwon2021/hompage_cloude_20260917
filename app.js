@@ -79,10 +79,13 @@ form.addEventListener('submit',async e=>{
   e.preventDefault();
   if(!valid())return;
   if(form.elements.botcheck&&form.elements.botcheck.checked)return;   /* 봇 차단용 숨은 칸 */
+  const cap=form.elements['h-captcha-response'];
+  if(cap&&!cap.value){$('#form-status').textContent="'로봇이 아닙니다' 확인을 먼저 눌러 주세요.";return;}
   const btn=form.querySelector('button[type=submit]'),st=$('#form-status'),label=btn.textContent;
   btn.disabled=true;btn.textContent='보내는 중…';st.textContent='';
   const payload={
     access_key:form.elements.access_key.value,
+    'h-captcha-response':cap?cap.value:'',
     subject:'[홈페이지 도입 상담] '+form.elements.name.value,
     from_name:'(주)유승토탈솔루션 홈페이지',
     '성함 / 업체명':form.elements.name.value,
@@ -96,6 +99,7 @@ form.addEventListener('submit',async e=>{
     const j=await r.json().catch(()=>({}));
     if(!r.ok||!j.success)throw new Error(j.message||'전송 실패');
     form.reset();
+    if(window.hcaptcha)try{hcaptcha.reset();}catch(_){}
     st.textContent='상담 신청이 접수되었습니다. 영업일 기준 1일 안에 연락드리겠습니다.';
   }catch(err){
     st.replaceChildren();
