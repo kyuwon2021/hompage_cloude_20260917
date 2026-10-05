@@ -12,7 +12,7 @@ function initReferences(){
  }
  $('#filters').onclick=e=>{const b=e.target.closest('[data-filter]');if(!b)return;filter=b.dataset.filter;page=1;$$('.filter').forEach(x=>{x.classList.toggle('active',x===b);x.setAttribute('aria-pressed',String(x===b));});render();};
  $('#case-search').oninput=e=>{query=e.target.value.trim().toLowerCase();page=1;render();};
- $('#case-pages').onclick=e=>{const b=e.target.closest('[data-page]');if(!b)return;page=Number(b.dataset.page);render();$('#case-count').scrollIntoView({block:'start',behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'});$('#case-pages [aria-current="page"]')?.focus({preventScroll:true});};render();
+ $('#case-pages').onclick=e=>{const b=e.target.closest('[data-page]');if(!b)return;page=Number(b.dataset.page);render();$('#case-count').scrollIntoView({block:'start',behavior:'instant'});$('#case-pages [aria-current="page"]')?.focus({preventScroll:true});};render();
 }
 function initHero(){
  const hero=document.querySelector('.hero'), slides=data.hero, original=hero.querySelector('.hero-image');

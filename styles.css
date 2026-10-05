@@ -136,3 +136,6 @@ h2,.feature-grid h2{font-size:32px}
 .section-intro,.body-copy,.feature-grid .body-copy,.about-copy .body-copy,.contact-copy .body-copy{font-size:15.5px}
 .product-card p{font-size:12.5px}
 }
+
+/* 버튼·메뉴 클릭 시 스르륵 내려가지 않고 해당 위치로 바로 이동 */
+html{scroll-behavior:auto}
