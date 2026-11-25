@@ -38,6 +38,19 @@
       "mobilePosition": "68% center"
     },
     {
+      "key": "ehs",
+      "eyebrow": "EHS 히트펌프 보일러",
+      "title": "한겨울에도 따뜻하게,\nEHS 히트펌프 보일러",
+      "desc": "최대 70℃ 고온수와 영하 25℃ 한파 성능.\n바닥난방과 급탕을 히트펌프 하나로 해결합니다.",
+      "image": "assets/hero/ehs.webp",
+      "alt": "주택 외벽에 설치된 EHS 히트펌프 보일러 실외기",
+      "label": "EHS 보일러",
+      "link": "ehs.html",
+      "cta": "자세히 보기",
+      "position": "center 70%",
+      "mobilePosition": "60% center"
+    },
+    {
       "key": "led",
       "eyebrow": "LED 디스플레이",
       "title": "시선을 모으는\n대형 디스플레이",
@@ -95,6 +108,13 @@
       "title": "시스템에어컨",
       "desc": "공간에 맞춘 냉난방·환기 시스템",
       "image": "assets/hero/hvac.webp"
+    },
+    {
+      "key": "ehs",
+      "title": "EHS 히트펌프 보일러",
+      "desc": "바닥난방·급탕을 위한 히트펌프 보일러",
+      "image": "assets/hero/ehs.webp",
+      "link": "ehs.html"
     },
     {
       "key": "tv",

@@ -4,6 +4,7 @@
 !/.nojekyll
 !/index.html
 !/case.html
+!/ehs.html
 !/app.js
 !/styles.css
 !/logo.svg
@@ -25,6 +26,10 @@
 !/assets/references/
 /assets/references/*
 !/assets/references/*.webp
+!/assets/ehs/
+/assets/ehs/*
+!/assets/ehs/*.jpg
+!/assets/ehs/*.webp
 !/assets/videos/
 /assets/videos/*
 !/assets/videos/*.mp4
