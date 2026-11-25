@@ -48,7 +48,8 @@
       "link": "ehs.html",
       "cta": "자세히 보기",
       "position": "center 70%",
-      "mobilePosition": "60% center"
+      "mobilePosition": "60% center",
+      "concept": false
     },
     {
       "key": "led",
